@@ -2,7 +2,7 @@ streamlit
 streamlit-lottie
 pandas
 numpy
-scikit-learn==1.3.0
+scikit-learn==1.3.2 --only-binary :all:
 openai
 requests
 Pillow
