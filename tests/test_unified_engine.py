@@ -1,11 +1,9 @@
 # /tests/test_unified_engine.py
 
-import sys
 import json
+import os
 
-# Make sure the app root is in path
-sys.path.append('/content/drive/MyDrive/FinWise')
-
+from config import Config
 from ml_model_integration.unified_engine import UnifiedScamDetectionEngine
 from modules.main_pipeline import FinWiseTransactionPipeline as FinWiseCorePipeline
 from ml_model_integration.transaction_enricher import TransactionEnricher
@@ -15,10 +13,15 @@ from ml_model_integration.llm_explainer import LLMExplainer
 # Initialize components
 pipeline = FinWiseCorePipeline()
 enricher = TransactionEnricher()
-predictor = ScamPredictor(model_path="/content/drive/MyDrive/FinWise/models/scam_classifier_optimized.pkl")
-explainer = LLMExplainer(api_key="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")  # 🔐 Replace with your real OpenAI key
+predictor = ScamPredictor(model_path="models/scam_classifier_optimized.pkl")  # Use relative path
 
-# Create the engine
+# Load LLM API config from env or fallback to config.py
+api_key = os.getenv("OPENAI_API_KEY", Config.OPENAI_API_KEY)
+model = os.getenv("OPENAI_MODEL", Config.OPENAI_MODEL)
+
+explainer = LLMExplainer(api_key=api_key, model=model)
+
+# Create the unified engine
 engine = UnifiedScamDetectionEngine(
     pipeline=pipeline,
     enricher=enricher,
@@ -26,7 +29,7 @@ engine = UnifiedScamDetectionEngine(
     explainer=explainer
 )
 
-# Run a sample test case
+# Sample test input
 result = engine.full_analysis(
     user_id="user1",
     upi_id="xyz@upi",
@@ -34,6 +37,6 @@ result = engine.full_analysis(
     amount=1200.0
 )
 
-# Pretty print the final result
+# Print the final result in pretty format
 print("\n🚨 Final Scam Detection Output:\n")
 print(json.dumps(result, indent=2))
