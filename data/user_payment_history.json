@@ -1,0 +1,999 @@
+{
+  "user_1": [
+    "grofers@oksbi",
+    "amazonhr@upi",
+    "flipkartrefund@axl",
+    "swiggy@okicici",
+    "kfc@paytm",
+    "mcdonalds@axl"
+  ],
+  "user_2": [
+    "mcdonalds@axl",
+    "kfc@paytm",
+    "googlepay@okicici",
+    "flipkartrefund@axl",
+    "paytmsupport@paytm",
+    "ola@axis",
+    "myntra@hdfc",
+    "flipkart@axl",
+    "dunzo@kotak",
+    "swiggyfree@okicici"
+  ],
+  "user_3": [
+    "paytmsupport@paytm",
+    "dunzo@kotak",
+    "swiggyfree@okicici"
+  ],
+  "user_4": [
+    "paytm@paytm",
+    "phonepe@ybl",
+    "dominos@okicici",
+    "amazonhr@upi",
+    "googlepay@okicici",
+    "flipkartrefund@axl",
+    "zomato@ybl",
+    "starbucks@upi",
+    "kfc@paytm",
+    "ola@axis",
+    "paytmsupport@paytm",
+    "dunzo@kotak"
+  ],
+  "user_5": [
+    "amazonhr@upi",
+    "kfc@paytm",
+    "googlepay@okicici"
+  ],
+  "user_6": [
+    "dunzo@kotak",
+    "amazon@upi",
+    "uber@ibl",
+    "bigbasket@icici",
+    "mcdonalds@axl",
+    "paytmsupport@paytm"
+  ],
+  "user_7": [
+    "flipkartrefund@axl",
+    "flipkart@axl",
+    "dunzo@kotak",
+    "phonepe@ybl"
+  ],
+  "user_8": [
+    "uber@ibl",
+    "amazonhr@upi",
+    "paytm@paytm",
+    "flipkart@axl",
+    "amazon@upi",
+    "phonepe@ybl",
+    "swiggy@okicici",
+    "kfc@paytm",
+    "zomato@ybl",
+    "grofers@oksbi"
+  ],
+  "user_9": [
+    "swiggy@okicici",
+    "mcdonalds@axl",
+    "paytm@paytm",
+    "kfc@paytm",
+    "swiggyfree@okicici",
+    "starbucks@upi",
+    "bigbasket@icici"
+  ],
+  "user_10": [
+    "amazonhr@upi",
+    "grofers@oksbi",
+    "ajio@sbi",
+    "phonepe@ybl",
+    "amazon@upi",
+    "ola@axis",
+    "paytmsupport@paytm",
+    "googlepay@okicici"
+  ],
+  "user_11": [
+    "ola@axis",
+    "flipkart@axl",
+    "googlepay@okicici",
+    "kfc@paytm"
+  ],
+  "user_12": [
+    "kfc@paytm",
+    "ola@axis",
+    "uber@ibl",
+    "googlepay@okicici",
+    "dunzo@kotak",
+    "flipkart@axl"
+  ],
+  "user_13": [
+    "ola@axis",
+    "kfc@paytm",
+    "paytm@paytm",
+    "flipkartrefund@axl",
+    "bigbasket@icici"
+  ],
+  "user_14": [
+    "flipkartrefund@axl",
+    "googlepay@okicici",
+    "dunzo@kotak",
+    "phonepe@ybl",
+    "flipkart@axl",
+    "paytmsupport@paytm"
+  ],
+  "user_15": [
+    "googlepay@okicici",
+    "kfc@paytm",
+    "zomato@ybl",
+    "amazonhr@upi",
+    "dominos@okicici",
+    "paytmsupport@paytm",
+    "amazon@upi",
+    "starbucks@upi",
+    "grofers@oksbi"
+  ],
+  "user_16": [
+    "myntra@hdfc",
+    "amazon@upi",
+    "paytm@paytm",
+    "flipkart@axl",
+    "amazonhr@upi",
+    "ola@axis",
+    "kfc@paytm",
+    "dominos@okicici",
+    "grofers@oksbi",
+    "flipkartrefund@axl",
+    "dunzo@kotak"
+  ],
+  "user_17": [
+    "amazonhr@upi",
+    "kfc@paytm",
+    "paytmsupport@paytm",
+    "zomato@ybl",
+    "uber@ibl",
+    "paytm@paytm",
+    "myntra@hdfc",
+    "dominos@okicici",
+    "phonepe@ybl",
+    "swiggy@okicici",
+    "starbucks@upi",
+    "ajio@sbi"
+  ],
+  "user_18": [
+    "zomato@ybl",
+    "flipkartrefund@axl",
+    "amazon@upi",
+    "ola@axis"
+  ],
+  "user_19": [
+    "bigbasket@icici",
+    "paytmsupport@paytm",
+    "flipkart@axl",
+    "ajio@sbi",
+    "amazonhr@upi",
+    "dominos@okicici",
+    "googlepay@okicici",
+    "kfc@paytm",
+    "mcdonalds@axl",
+    "amazon@upi",
+    "myntra@hdfc",
+    "swiggyfree@okicici"
+  ],
+  "user_20": [
+    "googlepay@okicici",
+    "starbucks@upi",
+    "zomato@ybl",
+    "dominos@okicici",
+    "uber@ibl",
+    "flipkart@axl",
+    "bigbasket@icici",
+    "paytmsupport@paytm",
+    "ola@axis"
+  ],
+  "user_21": [
+    "phonepe@ybl",
+    "amazon@upi",
+    "flipkartrefund@axl",
+    "myntra@hdfc",
+    "starbucks@upi"
+  ],
+  "user_22": [
+    "paytm@paytm",
+    "zomato@ybl",
+    "amazonhr@upi",
+    "swiggy@okicici",
+    "amazon@upi",
+    "starbucks@upi",
+    "myntra@hdfc",
+    "grofers@oksbi",
+    "mcdonalds@axl",
+    "bigbasket@icici",
+    "ajio@sbi",
+    "dunzo@kotak"
+  ],
+  "user_23": [
+    "starbucks@upi",
+    "mcdonalds@axl",
+    "flipkartrefund@axl",
+    "dominos@okicici",
+    "paytmsupport@paytm"
+  ],
+  "user_24": [
+    "grofers@oksbi",
+    "ola@axis",
+    "kfc@paytm",
+    "flipkartrefund@axl",
+    "dunzo@kotak",
+    "paytm@paytm",
+    "amazonhr@upi"
+  ],
+  "user_25": [
+    "kfc@paytm",
+    "flipkart@axl",
+    "mcdonalds@axl",
+    "zomato@ybl",
+    "ola@axis",
+    "myntra@hdfc",
+    "grofers@oksbi",
+    "swiggy@okicici",
+    "flipkartrefund@axl",
+    "dominos@okicici",
+    "googlepay@okicici",
+    "amazonhr@upi"
+  ],
+  "user_26": [
+    "zomato@ybl",
+    "flipkart@axl",
+    "amazonhr@upi",
+    "starbucks@upi",
+    "phonepe@ybl",
+    "flipkartrefund@axl",
+    "myntra@hdfc",
+    "paytmsupport@paytm"
+  ],
+  "user_27": [
+    "bigbasket@icici",
+    "swiggy@okicici",
+    "paytm@paytm",
+    "amazonhr@upi",
+    "phonepe@ybl",
+    "mcdonalds@axl"
+  ],
+  "user_28": [
+    "flipkartrefund@axl",
+    "paytm@paytm",
+    "uber@ibl",
+    "ola@axis",
+    "dunzo@kotak",
+    "bigbasket@icici"
+  ],
+  "user_29": [
+    "bigbasket@icici",
+    "kfc@paytm",
+    "ajio@sbi",
+    "ola@axis",
+    "amazon@upi",
+    "swiggyfree@okicici",
+    "dunzo@kotak",
+    "myntra@hdfc",
+    "googlepay@okicici"
+  ],
+  "user_30": [
+    "starbucks@upi",
+    "bigbasket@icici",
+    "phonepe@ybl",
+    "flipkartrefund@axl",
+    "ajio@sbi",
+    "flipkart@axl",
+    "amazon@upi",
+    "googlepay@okicici",
+    "myntra@hdfc",
+    "mcdonalds@axl"
+  ],
+  "user_31": [
+    "mcdonalds@axl",
+    "ajio@sbi",
+    "flipkartrefund@axl",
+    "starbucks@upi",
+    "kfc@paytm",
+    "zomato@ybl"
+  ],
+  "user_32": [
+    "myntra@hdfc",
+    "kfc@paytm",
+    "amazon@upi",
+    "grofers@oksbi",
+    "dominos@okicici",
+    "flipkartrefund@axl",
+    "ajio@sbi",
+    "swiggyfree@okicici",
+    "amazonhr@upi",
+    "flipkart@axl",
+    "googlepay@okicici",
+    "swiggy@okicici"
+  ],
+  "user_33": [
+    "paytmsupport@paytm",
+    "dominos@okicici",
+    "paytm@paytm",
+    "bigbasket@icici",
+    "starbucks@upi",
+    "grofers@oksbi",
+    "googlepay@okicici",
+    "flipkartrefund@axl",
+    "kfc@paytm",
+    "ajio@sbi",
+    "zomato@ybl",
+    "myntra@hdfc"
+  ],
+  "user_34": [
+    "bigbasket@icici",
+    "googlepay@okicici",
+    "amazon@upi",
+    "dominos@okicici",
+    "amazonhr@upi",
+    "starbucks@upi",
+    "grofers@oksbi",
+    "dunzo@kotak",
+    "phonepe@ybl",
+    "uber@ibl",
+    "swiggy@okicici",
+    "flipkartrefund@axl"
+  ],
+  "user_35": [
+    "bigbasket@icici",
+    "starbucks@upi",
+    "ajio@sbi",
+    "paytmsupport@paytm",
+    "dominos@okicici",
+    "googlepay@okicici",
+    "amazonhr@upi",
+    "kfc@paytm",
+    "mcdonalds@axl",
+    "grofers@oksbi",
+    "amazon@upi"
+  ],
+  "user_36": [
+    "ola@axis",
+    "kfc@paytm",
+    "grofers@oksbi",
+    "uber@ibl",
+    "starbucks@upi",
+    "dominos@okicici",
+    "paytmsupport@paytm",
+    "mcdonalds@axl",
+    "zomato@ybl",
+    "myntra@hdfc",
+    "googlepay@okicici"
+  ],
+  "user_37": [
+    "phonepe@ybl",
+    "swiggy@okicici",
+    "dominos@okicici",
+    "swiggyfree@okicici",
+    "dunzo@kotak",
+    "paytm@paytm",
+    "mcdonalds@axl",
+    "myntra@hdfc",
+    "ajio@sbi"
+  ],
+  "user_38": [
+    "myntra@hdfc",
+    "phonepe@ybl",
+    "grofers@oksbi",
+    "googlepay@okicici",
+    "ajio@sbi",
+    "bigbasket@icici",
+    "flipkartrefund@axl",
+    "paytm@paytm",
+    "amazon@upi"
+  ],
+  "user_39": [
+    "paytm@paytm",
+    "ajio@sbi",
+    "dunzo@kotak",
+    "paytmsupport@paytm",
+    "ola@axis",
+    "amazon@upi",
+    "phonepe@ybl",
+    "flipkart@axl",
+    "googlepay@okicici",
+    "flipkartrefund@axl",
+    "zomato@ybl",
+    "grofers@oksbi"
+  ],
+  "user_40": [
+    "flipkart@axl",
+    "zomato@ybl",
+    "paytmsupport@paytm"
+  ],
+  "user_41": [
+    "amazonhr@upi",
+    "flipkart@axl",
+    "paytm@paytm",
+    "kfc@paytm"
+  ],
+  "user_42": [
+    "paytmsupport@paytm",
+    "bigbasket@icici",
+    "flipkart@axl",
+    "grofers@oksbi",
+    "flipkartrefund@axl",
+    "swiggyfree@okicici",
+    "phonepe@ybl",
+    "kfc@paytm",
+    "myntra@hdfc",
+    "starbucks@upi"
+  ],
+  "user_43": [
+    "starbucks@upi",
+    "zomato@ybl",
+    "paytmsupport@paytm",
+    "amazonhr@upi",
+    "grofers@oksbi",
+    "phonepe@ybl",
+    "googlepay@okicici",
+    "swiggyfree@okicici",
+    "bigbasket@icici"
+  ],
+  "user_44": [
+    "phonepe@ybl",
+    "kfc@paytm",
+    "swiggy@okicici",
+    "uber@ibl",
+    "amazon@upi",
+    "bigbasket@icici",
+    "paytm@paytm",
+    "amazonhr@upi"
+  ],
+  "user_45": [
+    "ajio@sbi",
+    "amazonhr@upi",
+    "swiggy@okicici",
+    "kfc@paytm",
+    "paytmsupport@paytm",
+    "amazon@upi",
+    "dunzo@kotak",
+    "uber@ibl"
+  ],
+  "user_46": [
+    "dunzo@kotak",
+    "starbucks@upi",
+    "paytmsupport@paytm",
+    "bigbasket@icici",
+    "mcdonalds@axl",
+    "paytm@paytm",
+    "flipkart@axl",
+    "uber@ibl",
+    "dominos@okicici",
+    "grofers@oksbi",
+    "zomato@ybl",
+    "kfc@paytm"
+  ],
+  "user_47": [
+    "bigbasket@icici",
+    "swiggy@okicici",
+    "ola@axis",
+    "starbucks@upi",
+    "dominos@okicici",
+    "paytm@paytm",
+    "mcdonalds@axl",
+    "amazon@upi",
+    "dunzo@kotak",
+    "grofers@oksbi",
+    "flipkartrefund@axl"
+  ],
+  "user_48": [
+    "swiggy@okicici",
+    "dominos@okicici",
+    "phonepe@ybl",
+    "mcdonalds@axl",
+    "grofers@oksbi",
+    "zomato@ybl",
+    "paytm@paytm",
+    "uber@ibl",
+    "starbucks@upi",
+    "googlepay@okicici"
+  ],
+  "user_49": [
+    "myntra@hdfc",
+    "flipkart@axl",
+    "uber@ibl",
+    "mcdonalds@axl",
+    "ajio@sbi",
+    "ola@axis",
+    "paytm@paytm",
+    "dunzo@kotak",
+    "paytmsupport@paytm",
+    "flipkartrefund@axl"
+  ],
+  "user_50": [
+    "grofers@oksbi",
+    "kfc@paytm",
+    "flipkartrefund@axl",
+    "swiggy@okicici",
+    "googlepay@okicici",
+    "ajio@sbi",
+    "dunzo@kotak",
+    "dominos@okicici"
+  ],
+  "user_51": [
+    "zomato@ybl",
+    "kfc@paytm",
+    "paytmsupport@paytm",
+    "bigbasket@icici",
+    "flipkart@axl",
+    "dunzo@kotak",
+    "uber@ibl",
+    "swiggyfree@okicici",
+    "mcdonalds@axl",
+    "ola@axis",
+    "grofers@oksbi",
+    "phonepe@ybl"
+  ],
+  "user_52": [
+    "bigbasket@icici",
+    "swiggy@okicici",
+    "googlepay@okicici"
+  ],
+  "user_53": [
+    "paytmsupport@paytm",
+    "mcdonalds@axl",
+    "dunzo@kotak",
+    "zomato@ybl",
+    "swiggy@okicici",
+    "bigbasket@icici",
+    "amazon@upi"
+  ],
+  "user_54": [
+    "googlepay@okicici",
+    "grofers@oksbi",
+    "dunzo@kotak",
+    "starbucks@upi",
+    "uber@ibl"
+  ],
+  "user_55": [
+    "paytmsupport@paytm",
+    "grofers@oksbi",
+    "starbucks@upi",
+    "googlepay@okicici"
+  ],
+  "user_56": [
+    "myntra@hdfc",
+    "amazonhr@upi",
+    "dominos@okicici",
+    "paytmsupport@paytm",
+    "grofers@oksbi",
+    "starbucks@upi",
+    "zomato@ybl",
+    "ola@axis",
+    "dunzo@kotak",
+    "paytm@paytm",
+    "swiggy@okicici"
+  ],
+  "user_57": [
+    "mcdonalds@axl",
+    "ola@axis",
+    "paytm@paytm",
+    "kfc@paytm",
+    "bigbasket@icici",
+    "starbucks@upi"
+  ],
+  "user_58": [
+    "flipkart@axl",
+    "zomato@ybl",
+    "grofers@oksbi",
+    "kfc@paytm",
+    "mcdonalds@axl",
+    "swiggyfree@okicici",
+    "dunzo@kotak"
+  ],
+  "user_59": [
+    "swiggyfree@okicici",
+    "uber@ibl",
+    "amazon@upi",
+    "paytmsupport@paytm"
+  ],
+  "user_60": [
+    "paytmsupport@paytm",
+    "mcdonalds@axl",
+    "amazon@upi",
+    "starbucks@upi",
+    "amazonhr@upi",
+    "phonepe@ybl",
+    "ola@axis"
+  ],
+  "user_61": [
+    "bigbasket@icici",
+    "flipkart@axl",
+    "swiggyfree@okicici",
+    "paytmsupport@paytm",
+    "swiggy@okicici",
+    "ola@axis",
+    "googlepay@okicici",
+    "phonepe@ybl"
+  ],
+  "user_62": [
+    "dominos@okicici",
+    "swiggy@okicici",
+    "starbucks@upi"
+  ],
+  "user_63": [
+    "ajio@sbi",
+    "flipkartrefund@axl",
+    "phonepe@ybl",
+    "ola@axis",
+    "amazon@upi",
+    "uber@ibl",
+    "starbucks@upi",
+    "dominos@okicici"
+  ],
+  "user_64": [
+    "starbucks@upi",
+    "myntra@hdfc",
+    "googlepay@okicici",
+    "dunzo@kotak",
+    "ajio@sbi",
+    "flipkartrefund@axl",
+    "dominos@okicici",
+    "paytm@paytm",
+    "ola@axis",
+    "phonepe@ybl"
+  ],
+  "user_65": [
+    "googlepay@okicici",
+    "flipkartrefund@axl",
+    "ola@axis",
+    "swiggyfree@okicici",
+    "bigbasket@icici",
+    "amazonhr@upi",
+    "myntra@hdfc",
+    "dunzo@kotak",
+    "ajio@sbi",
+    "kfc@paytm",
+    "paytmsupport@paytm",
+    "dominos@okicici"
+  ],
+  "user_66": [
+    "amazon@upi",
+    "ola@axis",
+    "uber@ibl",
+    "flipkartrefund@axl",
+    "swiggy@okicici",
+    "kfc@paytm",
+    "ajio@sbi",
+    "starbucks@upi",
+    "amazonhr@upi",
+    "swiggyfree@okicici",
+    "myntra@hdfc",
+    "grofers@oksbi"
+  ],
+  "user_67": [
+    "myntra@hdfc",
+    "googlepay@okicici",
+    "ola@axis",
+    "flipkart@axl",
+    "paytm@paytm",
+    "kfc@paytm",
+    "ajio@sbi"
+  ],
+  "user_68": [
+    "bigbasket@icici",
+    "flipkart@axl",
+    "ajio@sbi",
+    "uber@ibl",
+    "myntra@hdfc",
+    "swiggyfree@okicici",
+    "amazon@upi",
+    "ola@axis",
+    "swiggy@okicici",
+    "kfc@paytm",
+    "dominos@okicici",
+    "phonepe@ybl"
+  ],
+  "user_69": [
+    "flipkartrefund@axl",
+    "ajio@sbi",
+    "amazon@upi",
+    "phonepe@ybl"
+  ],
+  "user_70": [
+    "paytmsupport@paytm",
+    "phonepe@ybl",
+    "swiggyfree@okicici",
+    "amazon@upi"
+  ],
+  "user_71": [
+    "dunzo@kotak",
+    "flipkart@axl",
+    "paytm@paytm",
+    "uber@ibl",
+    "ola@axis",
+    "swiggy@okicici",
+    "dominos@okicici",
+    "phonepe@ybl",
+    "paytmsupport@paytm"
+  ],
+  "user_72": [
+    "uber@ibl",
+    "bigbasket@icici",
+    "swiggy@okicici",
+    "starbucks@upi",
+    "ajio@sbi",
+    "grofers@oksbi",
+    "dominos@okicici",
+    "flipkart@axl",
+    "zomato@ybl"
+  ],
+  "user_73": [
+    "zomato@ybl",
+    "flipkartrefund@axl",
+    "amazon@upi",
+    "dominos@okicici",
+    "paytmsupport@paytm",
+    "swiggyfree@okicici"
+  ],
+  "user_74": [
+    "phonepe@ybl",
+    "swiggy@okicici",
+    "uber@ibl",
+    "paytmsupport@paytm",
+    "kfc@paytm",
+    "dunzo@kotak",
+    "zomato@ybl",
+    "mcdonalds@axl",
+    "dominos@okicici"
+  ],
+  "user_75": [
+    "paytm@paytm",
+    "mcdonalds@axl",
+    "amazonhr@upi",
+    "phonepe@ybl",
+    "dominos@okicici",
+    "flipkart@axl",
+    "bigbasket@icici",
+    "uber@ibl",
+    "swiggy@okicici",
+    "flipkartrefund@axl"
+  ],
+  "user_76": [
+    "dunzo@kotak",
+    "grofers@oksbi",
+    "phonepe@ybl",
+    "kfc@paytm",
+    "paytm@paytm",
+    "starbucks@upi",
+    "ola@axis",
+    "swiggy@okicici",
+    "amazon@upi",
+    "flipkart@axl",
+    "ajio@sbi",
+    "paytmsupport@paytm"
+  ],
+  "user_77": [
+    "dominos@okicici",
+    "amazonhr@upi",
+    "ajio@sbi",
+    "googlepay@okicici",
+    "ola@axis",
+    "amazon@upi",
+    "kfc@paytm",
+    "uber@ibl",
+    "flipkart@axl",
+    "mcdonalds@axl",
+    "phonepe@ybl"
+  ],
+  "user_78": [
+    "phonepe@ybl",
+    "flipkart@axl",
+    "amazonhr@upi",
+    "swiggyfree@okicici",
+    "starbucks@upi",
+    "paytm@paytm"
+  ],
+  "user_79": [
+    "dominos@okicici",
+    "myntra@hdfc",
+    "paytm@paytm",
+    "swiggy@okicici",
+    "paytmsupport@paytm"
+  ],
+  "user_80": [
+    "amazon@upi",
+    "paytm@paytm",
+    "swiggyfree@okicici",
+    "kfc@paytm",
+    "paytmsupport@paytm",
+    "myntra@hdfc",
+    "uber@ibl",
+    "amazonhr@upi"
+  ],
+  "user_81": [
+    "amazonhr@upi",
+    "paytm@paytm",
+    "flipkartrefund@axl",
+    "bigbasket@icici"
+  ],
+  "user_82": [
+    "swiggyfree@okicici",
+    "swiggy@okicici",
+    "uber@ibl",
+    "dominos@okicici",
+    "flipkart@axl",
+    "paytmsupport@paytm",
+    "zomato@ybl"
+  ],
+  "user_83": [
+    "grofers@oksbi",
+    "flipkart@axl",
+    "paytmsupport@paytm"
+  ],
+  "user_84": [
+    "zomato@ybl",
+    "mcdonalds@axl",
+    "starbucks@upi",
+    "paytm@paytm",
+    "uber@ibl",
+    "grofers@oksbi",
+    "amazonhr@upi",
+    "googlepay@okicici"
+  ],
+  "user_85": [
+    "uber@ibl",
+    "bigbasket@icici",
+    "ola@axis",
+    "flipkartrefund@axl",
+    "amazon@upi",
+    "grofers@oksbi",
+    "ajio@sbi",
+    "paytmsupport@paytm",
+    "zomato@ybl",
+    "googlepay@okicici",
+    "amazonhr@upi",
+    "swiggyfree@okicici"
+  ],
+  "user_86": [
+    "grofers@oksbi",
+    "starbucks@upi",
+    "dominos@okicici",
+    "amazonhr@upi",
+    "ajio@sbi",
+    "googlepay@okicici",
+    "flipkart@axl"
+  ],
+  "user_87": [
+    "ola@axis",
+    "swiggyfree@okicici",
+    "myntra@hdfc",
+    "paytm@paytm",
+    "flipkart@axl",
+    "dominos@okicici",
+    "starbucks@upi",
+    "phonepe@ybl",
+    "zomato@ybl",
+    "amazonhr@upi"
+  ],
+  "user_88": [
+    "amazon@upi",
+    "ola@axis",
+    "flipkart@axl",
+    "ajio@sbi",
+    "flipkartrefund@axl",
+    "paytm@paytm",
+    "swiggy@okicici",
+    "dunzo@kotak",
+    "zomato@ybl",
+    "dominos@okicici",
+    "grofers@oksbi"
+  ],
+  "user_89": [
+    "dunzo@kotak",
+    "starbucks@upi",
+    "dominos@okicici"
+  ],
+  "user_90": [
+    "ola@axis",
+    "kfc@paytm",
+    "dominos@okicici",
+    "swiggy@okicici",
+    "starbucks@upi",
+    "paytmsupport@paytm"
+  ],
+  "user_91": [
+    "grofers@oksbi",
+    "paytm@paytm",
+    "amazon@upi",
+    "myntra@hdfc"
+  ],
+  "user_92": [
+    "flipkartrefund@axl",
+    "uber@ibl",
+    "googlepay@okicici"
+  ],
+  "user_93": [
+    "paytm@paytm",
+    "ola@axis",
+    "amazonhr@upi",
+    "googlepay@okicici",
+    "myntra@hdfc",
+    "dunzo@kotak",
+    "uber@ibl",
+    "amazon@upi",
+    "mcdonalds@axl",
+    "ajio@sbi"
+  ],
+  "user_94": [
+    "phonepe@ybl",
+    "paytmsupport@paytm",
+    "zomato@ybl",
+    "grofers@oksbi",
+    "amazon@upi",
+    "flipkartrefund@axl",
+    "flipkart@axl",
+    "paytm@paytm",
+    "dunzo@kotak",
+    "ajio@sbi"
+  ],
+  "user_95": [
+    "flipkartrefund@axl",
+    "starbucks@upi",
+    "mcdonalds@axl",
+    "paytmsupport@paytm",
+    "uber@ibl",
+    "dominos@okicici",
+    "swiggyfree@okicici",
+    "swiggy@okicici",
+    "flipkart@axl",
+    "paytm@paytm",
+    "phonepe@ybl"
+  ],
+  "user_96": [
+    "swiggyfree@okicici",
+    "uber@ibl",
+    "flipkart@axl",
+    "amazon@upi",
+    "paytmsupport@paytm",
+    "ola@axis"
+  ],
+  "user_97": [
+    "googlepay@okicici",
+    "myntra@hdfc",
+    "dominos@okicici",
+    "ajio@sbi",
+    "swiggy@okicici",
+    "bigbasket@icici",
+    "paytm@paytm",
+    "dunzo@kotak",
+    "kfc@paytm"
+  ],
+  "user_98": [
+    "dominos@okicici",
+    "amazon@upi",
+    "starbucks@upi",
+    "swiggy@okicici",
+    "mcdonalds@axl",
+    "paytm@paytm",
+    "ajio@sbi",
+    "uber@ibl"
+  ],
+  "user_99": [
+    "zomato@ybl",
+    "flipkart@axl",
+    "kfc@paytm",
+    "uber@ibl",
+    "grofers@oksbi",
+    "swiggyfree@okicici",
+    "amazonhr@upi",
+    "amazon@upi",
+    "starbucks@upi",
+    "myntra@hdfc",
+    "phonepe@ybl",
+    "ola@axis"
+  ],
+  "user_100": [
+    "googlepay@okicici",
+    "flipkart@axl",
+    "amazonhr@upi",
+    "ola@axis",
+    "paytmsupport@paytm",
+    "mcdonalds@axl",
+    "bigbasket@icici",
+    "uber@ibl"
+  ]
+}

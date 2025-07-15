@@ -1,0 +1,6002 @@
+[
+  {
+    "upi_id": "woodland@okaxis",
+    "merchant_name": "Nykaa",
+    "qr_hash": "adcf1a9454889ed82d7d043f23d44af4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa@pnb",
+    "merchant_name": "Realme",
+    "qr_hash": "7a857847dc058d858d54d4b11232ec62",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra@okkotak",
+    "merchant_name": "Swiggy",
+    "qr_hash": "5e3853d99dcc82588a1ffb0ce0a35cd5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "security.phonepe@fbl",
+    "merchant_name": "Fake Grofers HR",
+    "qr_hash": "b88ae611fb2c8e826279a8910e9d7e7c",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "flipkart@axl",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "e24f6aa7a1d5d82e8ae1854c9ad0166b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons@pnb",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "b4bf3f06503cf9cb0e35779eb9de5552",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa@okkotak",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "fdade8d487e6b5808db1efc8084ef2a5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers@oksbi",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "94aaef1d6c8fa473998025058cefa610",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "decathlon@okkotak",
+    "merchant_name": "Grofers",
+    "qr_hash": "af8b8897dbaf5c1384d2f24c314edcda",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "confirm_inox@iob",
+    "merchant_name": "Fake Google Pay Support",
+    "qr_hash": "205353158d3f57b31b60852053b042cd",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "swiggy@okicici",
+    "merchant_name": "McDonald's",
+    "qr_hash": "554124c3b77e7c4b542ae24ce0c78be7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "xiaomi@okkotak",
+    "merchant_name": "Fossil",
+    "qr_hash": "9cd754e041970b6b145bd7eb5c406c46",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo@oksbi",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "f693b82152f9770ff27c10829df3f04c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks823@okkotak",
+    "merchant_name": "JBL",
+    "qr_hash": "06ff4dd00c1f40537e0e88204b1b2b01",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay@ibl",
+    "merchant_name": "Urban Company",
+    "qr_hash": "b6e7670b648b4581f35d9a511960745a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "refund.phonepe@apl",
+    "merchant_name": "Fake Uber HR",
+    "qr_hash": "44a6269e63d79de8d77af76aed5d966a",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "bata217@iob",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "000d1bafb91e9dda3da37b491e1d6a0a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "tanishq@okaxis",
+    "merchant_name": "Domino's",
+    "qr_hash": "86522dd850206df3c336a80d48c9bfe1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma@ibl",
+    "merchant_name": "Zomato",
+    "qr_hash": "40b268d5859197975e5c25f4685ab954",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore666@oksbi",
+    "merchant_name": "McDonald's",
+    "qr_hash": "f59f9401dd5e68be0223ceced5b03ca0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nike@apl",
+    "merchant_name": "Uber",
+    "qr_hash": "9c1e8c8ea5a4901fb72c62d5df929a56",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra@ybl",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "6b2df45354af93fd9c8364b7abb0f2b4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "dunzo@okkotak",
+    "merchant_name": "Starbucks",
+    "qr_hash": "28b3d1850f221f56f7fd5b3c41ea9b12",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox294@ibl",
+    "merchant_name": "Boat",
+    "qr_hash": "8dc186d9b649ef8f12d45cedd30990bb",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nike@fbl",
+    "merchant_name": "Nike",
+    "qr_hash": "0bd35e128b24365bf64510085fac1550",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital@cnrb",
+    "merchant_name": "Dunzo",
+    "qr_hash": "b676e9bb26cdbdd02ca78d1e23b973b5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahutsecurity@apl",
+    "merchant_name": "Fake PVR Support",
+    "qr_hash": "e7d107377aa221897e845b96251990f2",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "bata607@iob",
+    "merchant_name": "MakeMyTrip",
+    "qr_hash": "830ffba9009d6d0806cf00a96b240848",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "decathlon572@apl",
+    "merchant_name": "INOX",
+    "qr_hash": "20cb0fc494c324cf48f2b67243ad724d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo@cnrb",
+    "merchant_name": "Dunzo",
+    "qr_hash": "27665857cfe13b6072419490096ef6b3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's447@axl",
+    "merchant_name": "Realme",
+    "qr_hash": "e533f738b3df50adb29ff2d3886b7f89",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "swiggy177@okkotak",
+    "merchant_name": "KFC",
+    "qr_hash": "add2a051ee76f95074a2199f558b20d7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle@oksbi",
+    "merchant_name": "Grofers",
+    "qr_hash": "d2ef1e2aa5c207b56bccc4e44226f152",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany@ybl",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "678d99074eca3b19599e315d922cb611",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon@okaxis",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "6e5b41a9b3b0ab0839f967b2ae3faa6e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "giftola@upi",
+    "merchant_name": "Fake Swiggy Refund",
+    "qr_hash": "bf640e4b9b55220e49ca54b3b1ef99f6",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "shoppersstop@iob",
+    "merchant_name": "Myntra",
+    "qr_hash": "af0d8b3f741479b9fdcaeb150c96f3e2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "titan@upi",
+    "merchant_name": "Urban Company",
+    "qr_hash": "1f3e17808ec351891c21068f95289fec",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "tanishq@cnrb",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "1869886e18e60e8a87d4ec57485189f9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oneplus@okicici",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "ec1741451921f31909ae417617b9a993",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "discount.decathlon@okkotak",
+    "merchant_name": "Fake McDonald's",
+    "qr_hash": "bc46f7d23b1d9411274647180232dd93",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "dunzo@paytm",
+    "merchant_name": "Apple Store",
+    "qr_hash": "4836cbc5d74507769875846ecca88f0d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc@paytm",
+    "merchant_name": "Ajio",
+    "qr_hash": "0ace7a19edd0bd586930c5dbdd9231c3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl@apl",
+    "merchant_name": "Titan",
+    "qr_hash": "e9f71d168f45147438c63ef423db1cc4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa@iob",
+    "merchant_name": "OnePlus",
+    "qr_hash": "a39f8bb1ff1d69c545ce78bab48d6f5f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "mcdonald's@boi",
+    "merchant_name": "BigBasket",
+    "qr_hash": "e3267954f0285f90c3cc5e8f099e4a1a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc@axl",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "45ccd3e23da871cae11d414d3224be51",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "realme566@fbl",
+    "merchant_name": "Casio",
+    "qr_hash": "c030ad833480fd36808c0b87048f5443",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox692@boi",
+    "merchant_name": "Bata",
+    "qr_hash": "831ee38808e963d83e0cbd721abd3cbd",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vijaysales@apl",
+    "merchant_name": "Starbucks",
+    "qr_hash": "4ae7756afd6b6a167232c86a6c0b527e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers356@apl",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "ba49c24b6700f86471ed8ad5cfe24afb",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oneplus@okaxis",
+    "merchant_name": "McDonald's",
+    "qr_hash": "c0f01c761112566b20b424dc3c3b6f96",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's@okhdfcbank",
+    "merchant_name": "Adidas",
+    "qr_hash": "6305b80053e38ac3b1f5f9191fea6e91",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox@iob",
+    "merchant_name": "Tanishq",
+    "qr_hash": "7a5de3831b48d0a9b773d8f714f9ace8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "titan@axl",
+    "merchant_name": "Amazon",
+    "qr_hash": "5d6c8a6b08ea6450673b0a560e6b67a8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@upi",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "5cf3923ea6af11167cf315e13bf5da1f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay449@ybl",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "6195955a52da97167c9539913ddd0115",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "adidas@pnb",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "4b27556d12ac030dde02b83503df15e1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip@cnrb",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "8e96c6157a50557ea1ea15815a60aca7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany@boi",
+    "merchant_name": "Decathlon",
+    "qr_hash": "af5f9f466a5ae180d2abd0f589dde71d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle@oksbi",
+    "merchant_name": "Fastrack",
+    "qr_hash": "6adb6df224082f4a6c5097ee05c220a0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart@okkotak",
+    "merchant_name": "Uber",
+    "qr_hash": "1b0a7cd708a112669d989987909f2f8a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@iob",
+    "merchant_name": "OnePlus",
+    "qr_hash": "a4293d9cdeabd351a414ec8a859893d4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "moresupermarket@upi",
+    "merchant_name": "Croma",
+    "qr_hash": "9c10f3635d5adae3d92dda5594cc77ed",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "confirm.lenskart@okaxis",
+    "merchant_name": "Fake Pizza Hut",
+    "qr_hash": "28e63e8f24c86cec8fc602af4609b989",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "oneplus_winner@ibl",
+    "merchant_name": "Scam Zomato",
+    "qr_hash": "29c662c15ccb0105603f7f308cffd505",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "oppo@okaxis",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "232e6240ded82bb57396de6ca02dfe11",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@okaxis",
+    "merchant_name": "Fossil",
+    "qr_hash": "5685f1387464536936fb37d308e9467b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo.cashback@upi",
+    "merchant_name": "Fake Urban Company",
+    "qr_hash": "c20eea84e9cdfa83da73b197d7f6d20f",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "tanishq867@okkotak",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "6b8e654d38bf26555d72143fbc9eb707",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip397@paytm",
+    "merchant_name": "Ola",
+    "qr_hash": "054db95d6bb74f503b8b2643e1b76537",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack@ybl",
+    "merchant_name": "Dunzo",
+    "qr_hash": "addf1a30b9d674922cbffb6248dbce92",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle92@axl",
+    "merchant_name": "KFC",
+    "qr_hash": "491d462e51c671232a7a524dfe98d2f0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boatactivate@ibl",
+    "merchant_name": "Fake Swiggy Refund",
+    "qr_hash": "640a082f7c5cbafd675c94e9d386b4e6",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "bookmyshow@okkotak",
+    "merchant_name": "Puma",
+    "qr_hash": "25343e54f54b815992d4445fb13c3169",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok697@apl",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "5e206d29cc6246b6ae9107c18557e953",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma@cnrb",
+    "merchant_name": "Spencer's",
+    "qr_hash": "c64ab3504966dd2990d64d9db48e0cb5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore@cnrb",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "0926d7ecc8837be1fc48e5c9697cc031",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@pnb",
+    "merchant_name": "Starbucks",
+    "qr_hash": "62beb522c6d3f6af0ff8aa73e06e4602",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola@fbl",
+    "merchant_name": "Dunzo",
+    "qr_hash": "3f64c5251e1fd50865c2f2fdd6446086",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "zomato_discount@axl",
+    "merchant_name": "Fake Google Pay Support",
+    "qr_hash": "3b9fa8ce08021b29dc2b35c7f036fff3",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "bigbasket@axl",
+    "merchant_name": "Ajio",
+    "qr_hash": "177283d0224e22b0ff30819cdc040eca",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon634@iob",
+    "merchant_name": "McDonald's",
+    "qr_hash": "64963c497d7b22699c0e4721833fa675",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "moresupermarket@okicici",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "279b88edc8b894ea9d2da0bf05fe8257",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "puma@cnrb",
+    "merchant_name": "Starbucks",
+    "qr_hash": "967c72e4fa54c6f00141168d82a380e3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cafecoffeeday@okaxis",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "e07cacb2a19c7e9bbd6f97245049b5c5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks@okaxis",
+    "merchant_name": "INOX",
+    "qr_hash": "21e544dc4f32f21b2c918452929119d8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons238@okkotak",
+    "merchant_name": "Reebok",
+    "qr_hash": "9b2af9e211dba6d83d183575cb50ab0f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "shoppersstop742@okicici",
+    "merchant_name": "Woodland",
+    "qr_hash": "8d5a09d4f010fa58d3ddc9f86f2ba76d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "titan@upi",
+    "merchant_name": "PhonePe",
+    "qr_hash": "a4bef74aeb981175de0200d0263d4465",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "realme622@apl",
+    "merchant_name": "Flipkart",
+    "qr_hash": "c8001ded3c39ae1922d2dd5d35dc3c0e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon81@iob",
+    "merchant_name": "Adidas",
+    "qr_hash": "b6110ffeff28bf2ce56f5342f194b85d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat@ybl",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "7198f20b7dec8ba1d1b500b0a9c74c12",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart424@upi",
+    "merchant_name": "Domino's",
+    "qr_hash": "6870e6bdf0fadeffe7a0bc05101bc411",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl653@oksbi",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "4e3222e6cd2490d2d456dc9c89e55161",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "paytm520@axl",
+    "merchant_name": "Xiaomi",
+    "qr_hash": "79cf241b3f6b01c007797130be1d1321",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo@apl",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "0bdbc38098ae0dd9767b6160f9c427e2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow883@ybl",
+    "merchant_name": "Uber",
+    "qr_hash": "cf8c0bcdfb467acac3906ddcd05af983",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle171@iob",
+    "merchant_name": "Woodland",
+    "qr_hash": "e4192080e2bd0ccdc6ba0f2daf5d418f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon@boi",
+    "merchant_name": "Dunzo",
+    "qr_hash": "d52ba9c01a55740a1e33b1186670477a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "decathlon@fbl",
+    "merchant_name": "Ajio",
+    "qr_hash": "f48a7e2afb3054ea20af461b4e45cdd0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat@boi",
+    "merchant_name": "Dunzo",
+    "qr_hash": "98e135088a0ab90d1d63a7180c0915a7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bigbasketsecurity@ybl",
+    "merchant_name": "Fraudulent PhonePe",
+    "qr_hash": "bc324376db75fd3dee6f9c3e37cc4265",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "fastrack458@okhdfcbank",
+    "merchant_name": "Apple Store",
+    "qr_hash": "f58eadb792e510df42022a19d0ce2b2d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "titan717@okhdfcbank",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "116ad6302642bd02ba08872fb9078afe",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo410@okicici",
+    "merchant_name": "Google Pay",
+    "qr_hash": "b678c843a9272bf606f924ff2b62f554",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "casio@boi",
+    "merchant_name": "Apple Store",
+    "qr_hash": "81c8557c0bf90a4918f00c66cc43364c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "uber@oksbi",
+    "merchant_name": "Swiggy",
+    "qr_hash": "d38608825e0a9c1a6f28db58bbe9ecf7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany@ibl",
+    "merchant_name": "Decathlon",
+    "qr_hash": "a7033583d280c0079177c6daf7e35686",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma@okkotak",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "02a66ee6e709ea80d5da04ce66726058",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers@upi",
+    "merchant_name": "Zomato",
+    "qr_hash": "f1425824ae043ddc7185bc3fcec4ad75",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "dunzo@cnrb",
+    "merchant_name": "Grofers",
+    "qr_hash": "b1a719cffaeb04eea30663abec58afc8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack605@ybl",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "f0d146f31c7bde2d02638f0ae821adcc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "dunzo@iob",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "90c3a2a73adaf6a7164fe9421c28ef2a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's@okhdfcbank",
+    "merchant_name": "INOX",
+    "qr_hash": "f5a5fb348ad2ad8e5c22edbb94a27d4c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle@pnb",
+    "merchant_name": "Apple Store",
+    "qr_hash": "2a68b08775123e55f0da7fef769e3589",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut280@fbl",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "2fa10e9629ed1ac7ee48e9f42a6a8c6c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok@ibl",
+    "merchant_name": "Xiaomi",
+    "qr_hash": "9e4a0a2bcbc742e1444471eab77e12c3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "decathlon813@okkotak",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "542ca94241b98e173c3e3cbfe55f1273",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "uber639@okhdfcbank",
+    "merchant_name": "Vivo",
+    "qr_hash": "d1caedad7993905cff8c29190339876f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "paytm262@boi",
+    "merchant_name": "Myntra",
+    "qr_hash": "026dc1434fcfa5f03bd76d07357db1a9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "decathlon204@iob",
+    "merchant_name": "Ola",
+    "qr_hash": "bbce019ac528f0c8fdbc4eea209be9c4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe@fbl",
+    "merchant_name": "Vivo",
+    "qr_hash": "448e1ef0f5a16b5d6c140d95296a598e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "dunzo@paytm",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "368d60387e962a5a4ff2c824ae7c925a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "swiggy@upi",
+    "merchant_name": "Lenskart",
+    "qr_hash": "6f654735bba721ebc431e2a6abac43e2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok.prize@paytm",
+    "merchant_name": "Fake McDonald's",
+    "qr_hash": "0417eb7f6a5747c0299bdde83a25a36e",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "mcdonald's@fbl",
+    "merchant_name": "JBL",
+    "qr_hash": "33e0496ffe46599537f4c08c52554fb3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@boi",
+    "merchant_name": "KFC",
+    "qr_hash": "5c10e621ee73e27d88035ea247a7dcfa",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital.offer@okicici",
+    "merchant_name": "Fake Shoppers Stop",
+    "qr_hash": "a6604bf07627e9715a6647f7ed82e6a0",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "puma@ibl",
+    "merchant_name": "Ajio",
+    "qr_hash": "1a4380aa27d50b6155594b40a501c64d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore@fbl",
+    "merchant_name": "Flipkart",
+    "qr_hash": "7e7f2e75f3919a0b57e74f393d9fc5f7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "salary.makemytrip@okkotak",
+    "merchant_name": "Fake Uber HR",
+    "qr_hash": "4f1e6a40fd6298bf8c239b0e9962beec",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "xiaomi@axl",
+    "merchant_name": "Swiggy",
+    "qr_hash": "41afffa24b4ec469b53d68d65b532edc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@fbl",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "4dd32027ac56b11365b5963e6e427cd3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany699@ibl",
+    "merchant_name": "McDonald's",
+    "qr_hash": "cea8a74c19e858fc6599a2e10f9f509f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cafecoffeeday474@iob",
+    "merchant_name": "Fastrack",
+    "qr_hash": "1999f698925035a95aebafe82e2e7658",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers@ibl",
+    "merchant_name": "Nike",
+    "qr_hash": "3678649d91f3948d6b5befdb07987778",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "shoppersstop@axl",
+    "merchant_name": "JBL",
+    "qr_hash": "363ad1aabc7b0cf502ed65b90efc7c05",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "flipkart.verification@okhdfcbank",
+    "merchant_name": "Fraudulent Domino's",
+    "qr_hash": "315f13e231d4133deda3fd5f46c2661e",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "jbl@fbl",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "bbf3ca633436067bc8afa9d4bc9277ce",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat195@oksbi",
+    "merchant_name": "Casio",
+    "qr_hash": "f85fe35d0080bcee3ba2c04a174ab7a5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "puma.bonus@paytm",
+    "merchant_name": "Fake Shoppers Stop",
+    "qr_hash": "a630a11ce4cd54687d31ba26a400d596",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "kfc@boi",
+    "merchant_name": "Boat",
+    "qr_hash": "c23563bb7a146ce5bee6aa0af640d71f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc@pnb",
+    "merchant_name": "Ola",
+    "qr_hash": "2779617ede3048b9ad49b195283d2213",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nike@cnrb",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "f01cc457ba4590b425ec391204fb7267",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow606@okhdfcbank",
+    "merchant_name": "OnePlus",
+    "qr_hash": "268f89fb93a8afa0fb3f2b353b77350a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "shoppersstop@cnrb",
+    "merchant_name": "Apple Store",
+    "qr_hash": "8a925e5ef4964c593cf781fe56b712aa",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack@pnb",
+    "merchant_name": "Bata",
+    "qr_hash": "d1886cb5eb9e36a0e1d3393035e08f61",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola444@okhdfcbank",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "fa6c08361eac612a08f56b305ecf1745",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "shoppersstop@paytm",
+    "merchant_name": "Casio",
+    "qr_hash": "b0be475ebeb4d271994905d2334da9dc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa@cnrb",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "fe658805b7b148642ed0ebf624ae919f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut@okicici",
+    "merchant_name": "Zomato",
+    "qr_hash": "954e3cc8102a9c81ee06786e81660e15",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma@iob",
+    "merchant_name": "Nike",
+    "qr_hash": "fd03064180ebf274e454dab6b6af25e5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok@paytm",
+    "merchant_name": "KFC",
+    "qr_hash": "4106297e24fecbaad9c914024bc9dda7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon@pnb",
+    "merchant_name": "Realme",
+    "qr_hash": "981f695a7a4656a6606eb46659ec0e71",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle@boi",
+    "merchant_name": "Google Pay",
+    "qr_hash": "62f95a07b7660ef7bac2816e410632e5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ajio256@boi",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "6b396bac8eb0943677fcbfaa3c8f4509",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "samsungstore987@iob",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "75c7c60d646cbe3fe7c60668c64d1d6c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshowfree@boi",
+    "merchant_name": "Fake Pantaloons HR",
+    "qr_hash": "1c41258c833d456ca30ccbb78585f926",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "fastrack@okhdfcbank",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "394aa85c7662d23b31f03b96a8747252",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola@oksbi",
+    "merchant_name": "Boat",
+    "qr_hash": "5f8920a50260e7bdbfcf3860814bc04d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "realme@okkotak",
+    "merchant_name": "Puma",
+    "qr_hash": "1db48adab98dd2064a4a5c2eb9f16828",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok320@okaxis",
+    "merchant_name": "McDonald's",
+    "qr_hash": "1af200da5f037a53e8c99310e97a0382",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox@okkotak",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "f4d85549de6ce33022c1f973c1370710",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@axl",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "3cf3feafc8a589b3a5dc8dc7e697946e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe@fbl",
+    "merchant_name": "Spencer's",
+    "qr_hash": "b2ea696b4cab69fafe46cee8a2068781",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's124@okhdfcbank",
+    "merchant_name": "Apple Store",
+    "qr_hash": "b750d271eaf6cf3d94587ddcb7d2046d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok529@okhdfcbank",
+    "merchant_name": "Adidas",
+    "qr_hash": "7009edb22572ea9ed8de944841004987",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart@boi",
+    "merchant_name": "Casio",
+    "qr_hash": "92c821c189c709295c870ac28492616a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "dunzo615@fbl",
+    "merchant_name": "Uber",
+    "qr_hash": "99b9d02f4b7876d07d6a1b380b0d2e49",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut@ybl",
+    "merchant_name": "Flipkart",
+    "qr_hash": "90d117511aba7703ce2ca00edbfb3bc0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat@okhdfcbank",
+    "merchant_name": "Adidas",
+    "qr_hash": "75626d1b4718bcba119308dc9ecf190c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore@cnrb",
+    "merchant_name": "Tanishq",
+    "qr_hash": "9aed70c3f1f980dacf16d90a8edd9dcd",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra365@okhdfcbank",
+    "merchant_name": "Titan",
+    "qr_hash": "ddb3cb7fbfa85f86f46ffe67d3f0a7cb",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa134@cnrb",
+    "merchant_name": "Reebok",
+    "qr_hash": "ff9b6c0f6272690cfa4fd9357226e0d6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's@upi",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "e1f795799b5a86e4228e5b8654bec30d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vijaysaleslottery@cnrb",
+    "merchant_name": "Fake Pantaloons HR",
+    "qr_hash": "c84faeb14d130bc38c2eecf2ad84c522",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "phonepe@apl",
+    "merchant_name": "Grofers",
+    "qr_hash": "15b002b0f7383eef3a757b8a6a108308",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "casio@apl",
+    "merchant_name": "Starbucks",
+    "qr_hash": "3a311c195f3eeb3205183392f5ea7c63",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "titan@pnb",
+    "merchant_name": "INOX",
+    "qr_hash": "dbe8e71004b751bded26f2beb4fab341",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "paytm@oksbi",
+    "merchant_name": "Starbucks",
+    "qr_hash": "0fadcc41913879fb87c65da3872d2cab",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks@axl",
+    "merchant_name": "Reebok",
+    "qr_hash": "c43b4bf08c88aaf971eb464d668cb2d7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma400@fbl",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "f3179a338429a5742d32845673bae27e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "mcdonald's@pnb",
+    "merchant_name": "Realme",
+    "qr_hash": "96b72849f8e54e7c7bd03ae159bdc768",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola@fbl",
+    "merchant_name": "Domino's",
+    "qr_hash": "8b2953b6d806b09c202e6ce4ebbc9eee",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "samsungstore@fbl",
+    "merchant_name": "Reebok",
+    "qr_hash": "427e0b7bbe8dcd5ff5dd1a21a1f10396",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "samsungstore@upi",
+    "merchant_name": "Woodland",
+    "qr_hash": "25db7b6726cd711ccca840cbe3af0fc2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "realme@boi",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "9883a22880b0f285de15999dc122904d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe506@iob",
+    "merchant_name": "Croma",
+    "qr_hash": "3939ab9131476867d72a9117c3111c0e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "flipkart@pnb",
+    "merchant_name": "Urban Company",
+    "qr_hash": "3173f6b303116943f14a31a18fd300d9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "discount_realme@upi",
+    "merchant_name": "Scam Zomato",
+    "qr_hash": "82c397b904829126d1065ddd11de52e7",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "adidas699@iob",
+    "merchant_name": "Amazon",
+    "qr_hash": "74af382994e643c820647fac1dd948c7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl817@fbl",
+    "merchant_name": "Paytm",
+    "qr_hash": "7ca8c19d644d2001ee6fe7104019372a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pvrcinemas957@ybl",
+    "merchant_name": "Croma",
+    "qr_hash": "22ff0c79e262daa1277f91ec496bcb38",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital.winner@boi",
+    "merchant_name": "Scam KFC Support",
+    "qr_hash": "10f6e3024f9d800671911bb9d31f0042",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "makemytrip@ybl",
+    "merchant_name": "JBL",
+    "qr_hash": "b5b0ced02f5d8abf65a11231dcca7ebf",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "paytm648@upi",
+    "merchant_name": "INOX",
+    "qr_hash": "60ccce7adddac354c24ce599f6c07537",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa805@okkotak",
+    "merchant_name": "Google Pay",
+    "qr_hash": "94eabb626557564625832c301e540145",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc@okkotak",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "f025f2ef4d58f53d56efa33da6071832",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "uber368@fbl",
+    "merchant_name": "OnePlus",
+    "qr_hash": "fa348ccd653b3dbcae7a2257f2e93dc2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "flipkart@axl",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "7faaa34c974ad65451c933662609f8f6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's@cnrb",
+    "merchant_name": "Uber",
+    "qr_hash": "c8f76c66f942f1f7ae5c8e20c9d39517",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital@upi",
+    "merchant_name": "Swiggy",
+    "qr_hash": "667873770a89c39f9765e07ce63571e0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons@upi",
+    "merchant_name": "Casio",
+    "qr_hash": "5a4f2073b90dcfb50ec1d7065f25a699",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola661@iob",
+    "merchant_name": "BigBasket",
+    "qr_hash": "fe6b812295c9f9db0e19f5c7357f4c2c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "dunzo@oksbi",
+    "merchant_name": "Flipkart",
+    "qr_hash": "4e3f2886c2de19f97a718388a165a859",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa@cnrb",
+    "merchant_name": "Myntra",
+    "qr_hash": "c63ec797c91aa5d4342bd92a049d568e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "realme@axl",
+    "merchant_name": "Bata",
+    "qr_hash": "c3ec4d72e77de396505ff1d1d8a6171e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vijaysalesfree@okhdfcbank",
+    "merchant_name": "Fake Tanishq Support",
+    "qr_hash": "836123e2c49caa19aca046439b9053ea",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "urbancompany@fbl",
+    "merchant_name": "KFC",
+    "qr_hash": "bafe06f47101f4d43f6d0e70ec8d8e97",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox@okkotak",
+    "merchant_name": "PhonePe",
+    "qr_hash": "1f65fb18e2a72d9eeb4fae3b332c2e37",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo@paytm",
+    "merchant_name": "Domino's",
+    "qr_hash": "2808aad26a7ccb65f7a2e0cf5cc8d45e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ajio@apl",
+    "merchant_name": "Adidas",
+    "qr_hash": "a8092a847ad68761422270fa97b53221",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's@iob",
+    "merchant_name": "Nike",
+    "qr_hash": "97411357884b49d44680756927a7fda7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay236@upi",
+    "merchant_name": "Xiaomi",
+    "qr_hash": "d4dc4d28e5eb0db4f624da889bb78cc3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon@pnb",
+    "merchant_name": "Nykaa",
+    "qr_hash": "0ac5a623f94bbaeac7636d9832872456",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers@okkotak",
+    "merchant_name": "Woodland",
+    "qr_hash": "194ddf911c5d4c0f5d2f7c464e1f3918",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok284@cnrb",
+    "merchant_name": "Flipkart",
+    "qr_hash": "46f90d47c07e92eecc4d6b2de1cbca70",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo@okkotak",
+    "merchant_name": "Croma",
+    "qr_hash": "1b143f9daec1c3159190e5fda70eb347",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer'ssalary@oksbi",
+    "merchant_name": "Fake PVR Support",
+    "qr_hash": "72ebe1c8835081c681595ab72ba0e6f8",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "kfc647@oksbi",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "c335aa666917ed2d146f4ec96e758247",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks@ybl",
+    "merchant_name": "Ajio",
+    "qr_hash": "7157e7e52f945e26855910f4b64cba1d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore@pnb",
+    "merchant_name": "OnePlus",
+    "qr_hash": "a8fc3de5d7ccee2502080ca44a8f8c02",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra@iob",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "f4f999c241a63caef1fa607807f8aed2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra@upi",
+    "merchant_name": "Nike",
+    "qr_hash": "092c3cdaa1432e1d83d7669c3bea9789",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ajio527@boi",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "5370123c91eb9c9678230a00e8420068",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "moresupermarket@apl",
+    "merchant_name": "Tanishq",
+    "qr_hash": "4f6ec3980d288f7be5fe1621752e85a2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon.winner@ybl",
+    "merchant_name": "Fraudulent Domino's",
+    "qr_hash": "b166c921fda17061cc57b2a9a97f768b",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "spencer's@pnb",
+    "merchant_name": "Xiaomi",
+    "qr_hash": "061e5f7704be15f72c88465ac7d23167",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "paytm@fbl",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "81f64106adabd77b2537e5809f592e3f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata658@upi",
+    "merchant_name": "Vivo",
+    "qr_hash": "bc2133c5aba70a9e024de0af2e3d2d7c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks698@okhdfcbank",
+    "merchant_name": "Swiggy",
+    "qr_hash": "70bd1b08dc11f48e53b7de27ce35bde0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "discountgooglepay@axl",
+    "merchant_name": "Fake Amazon HR",
+    "qr_hash": "10d510cc1058b02ecd16ab655069c9d6",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "pvrcinemas@paytm",
+    "merchant_name": "Paytm",
+    "qr_hash": "29dd1b86f97d336c72233dd334b806f0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fossil720@okhdfcbank",
+    "merchant_name": "Paytm",
+    "qr_hash": "03114a593f56e87e25c0b1cb0ad75ed1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "puma@boi",
+    "merchant_name": "Vivo",
+    "qr_hash": "836ef9a3d855350eae4e057168e0c5d9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle904@ibl",
+    "merchant_name": "Grofers",
+    "qr_hash": "ed3c5f28713d37f6f29da442b1458b25",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's197@boi",
+    "merchant_name": "Nykaa",
+    "qr_hash": "9d88a00ceeb06adbd9c40d2e6e7c8393",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@okkotak",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "ee69d01dcf21a8372af983847bbe73bc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@okicici",
+    "merchant_name": "MakeMyTrip",
+    "qr_hash": "c901007de7379b56c24f73a321633d93",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore232@ybl",
+    "merchant_name": "Adidas",
+    "qr_hash": "09cfba5a1f5b4186225a0315385f7e29",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl@okicici",
+    "merchant_name": "KFC",
+    "qr_hash": "c8acbf760ca342cde3cc4fe10ec91a05",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox@cnrb",
+    "merchant_name": "Croma",
+    "qr_hash": "04b1862766db897db7430ec4afb1da42",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrackbonus@paytm",
+    "merchant_name": "Fake Spencer's HR",
+    "qr_hash": "d78aa70fcd951094fab220957c5241e1",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "offershoppersstop@paytm",
+    "merchant_name": "Fraudulent Ajio",
+    "qr_hash": "a6fb3685d73d193ebce071495ed98ced",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "flipkart@okaxis",
+    "merchant_name": "Myntra",
+    "qr_hash": "262465b62e12a69fe6d27bb219f6d41d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc952@ybl",
+    "merchant_name": "Ajio",
+    "qr_hash": "70e33798d0faf58a165f87d362a3913d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc96@okhdfcbank",
+    "merchant_name": "Paytm",
+    "qr_hash": "b786a8d1db0754fe4324736a02839548",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cafecoffeeday651@ibl",
+    "merchant_name": "Spencer's",
+    "qr_hash": "3c365ef71aec3460e9615d1b412f5ea6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack@apl",
+    "merchant_name": "PhonePe",
+    "qr_hash": "9f24f8bb8117ec405629a4d1f47cb2a2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon@paytm",
+    "merchant_name": "Domino's",
+    "qr_hash": "16a05a3a3d929a16afb3b47d0911a1e1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl@cnrb",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "6f0975bfcce794e59f44098ff4f43f35",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@okkotak",
+    "merchant_name": "BigBasket",
+    "qr_hash": "3bda557a3ed5add7555b3844cb30ee3c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat@paytm",
+    "merchant_name": "PhonePe",
+    "qr_hash": "86ccdd829c854ea99912bc53417c525a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat@cnrb",
+    "merchant_name": "Domino's",
+    "qr_hash": "ca019786dde230452defa962fd7fa604",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "discountgrofers@cnrb",
+    "merchant_name": "Fake Grofers HR",
+    "qr_hash": "dce155fc33b6fad765a37216aecb74d8",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "casio@fbl",
+    "merchant_name": "Urban Company",
+    "qr_hash": "99d1b64062aba66b975bdfbb9dc0e13c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay@ybl",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "26a1b159fcb5c4334593e55d12b171a9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cafecoffeeday@paytm",
+    "merchant_name": "Spencer's",
+    "qr_hash": "8a55b9c04fd579e5de7a9badd2474160",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "casio522@oksbi",
+    "merchant_name": "Bata",
+    "qr_hash": "81a4749524c535e65c5247909298af28",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ajio49@axl",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "c8421546a8a1ce05acb6bca3f6d30eb8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's@oksbi",
+    "merchant_name": "Fastrack",
+    "qr_hash": "14e501f97240dd3991de84c18e027978",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle@iob",
+    "merchant_name": "Boat",
+    "qr_hash": "a6b0787d42555757890c2f64e971ca7b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay820@apl",
+    "merchant_name": "Croma",
+    "qr_hash": "239b08d1f357d8894c6842f00ecb4dd1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle324@pnb",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "5c0b1aedfee35b5a3697f5890918d403",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay@apl",
+    "merchant_name": "MakeMyTrip",
+    "qr_hash": "d7f31ec511e7b28a66c7ddde78a35651",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@axl",
+    "merchant_name": "Fastrack",
+    "qr_hash": "2ec8eec821c5469d4d6f5cb059db7b01",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital_update@cnrb",
+    "merchant_name": "Scam CCD",
+    "qr_hash": "4e853f2d0fb276802ce43f26b1b50648",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "mcdonald's@apl",
+    "merchant_name": "Nike",
+    "qr_hash": "dd211622064a7ce1236df259cc9a1128",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo@okhdfcbank",
+    "merchant_name": "INOX",
+    "qr_hash": "665e79bb9e48f133ba88fafab83f5d4e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "puma@paytm",
+    "merchant_name": "McDonald's",
+    "qr_hash": "b57077eca958b805264f18dfbaa0ce5b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle.update@okicici",
+    "merchant_name": "Fake Croma",
+    "qr_hash": "0fd253109716def41eaa39c807883a6a",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "zomato@iob",
+    "merchant_name": "Flipkart",
+    "qr_hash": "8a1cec3dcee1eefbb8de78ea9aeb181e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers@paytm",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "70147eecf9e2ed2562810ab9be855f1f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "refund_bata@ybl",
+    "merchant_name": "Fake Swiggy Refund",
+    "qr_hash": "97bc19f9f2847df6b4ea0b96a49ff7c0",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "reebok@pnb",
+    "merchant_name": "Bata",
+    "qr_hash": "1e5af51b9690f11278a8279730785357",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's@okhdfcbank",
+    "merchant_name": "Amazon",
+    "qr_hash": "2fcba5db78d4bda84ab7ead3024b9bbc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay121@okicici",
+    "merchant_name": "Starbucks",
+    "qr_hash": "d7ebd7757a945f935f7a58fa8a6fad1b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's@axl",
+    "merchant_name": "KFC",
+    "qr_hash": "46e9d8f00feaf8da01eec9320041b6dd",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox@okaxis",
+    "merchant_name": "KFC",
+    "qr_hash": "e86eaab5b67fc9e1fdfe3a07c1671059",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's@apl",
+    "merchant_name": "Dunzo",
+    "qr_hash": "10bccd8f56c767ffc57c1d59309001ed",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "swiggy@ibl",
+    "merchant_name": "Realme",
+    "qr_hash": "bc47e42085a6ae8f842971f8cb4e8d83",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bigbasket@upi",
+    "merchant_name": "Grofers",
+    "qr_hash": "00b6a5c65768f672b7ec3b4c1b24b947",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany@upi",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "1178b115b30d3d745fa9921a058a4476",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pvrcinemas@okhdfcbank",
+    "merchant_name": "Starbucks",
+    "qr_hash": "390353816ea4edde3f2373e1faf0f656",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok230@upi",
+    "merchant_name": "Amazon",
+    "qr_hash": "fc8991f94e72b9c845df4184466d9f36",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa631@okaxis",
+    "merchant_name": "Vivo",
+    "qr_hash": "1ddb053b2e04c10143ffe5c008d3b1c1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay@okicici",
+    "merchant_name": "Ajio",
+    "qr_hash": "12f90f426a5fd7530445f12479cde1d0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola@iob",
+    "merchant_name": "Nike",
+    "qr_hash": "4851eaec2ab2f3617eaf5211bae07e2a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "adidas283@boi",
+    "merchant_name": "JBL",
+    "qr_hash": "41e63459c13488a50531bbcd0343d305",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fossil@ibl",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "2fe4393c70d265472eda880a7ec9faac",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@pnb",
+    "merchant_name": "Adidas",
+    "qr_hash": "d88145fbfe6adaa173fe6fdc33c284c0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital_urgent@pnb",
+    "merchant_name": "Fake McDonald's",
+    "qr_hash": "c48cd3c17e2cacad24c78ccb181937f5",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "spencer's859@oksbi",
+    "merchant_name": "Domino's",
+    "qr_hash": "662ce19f0ffa63db04a916e2f0d1f82c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "uber@ybl",
+    "merchant_name": "Tanishq",
+    "qr_hash": "521bd5fbea87515ce9c8618d56a47ac9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany@apl",
+    "merchant_name": "Uber",
+    "qr_hash": "6403c75c4908fcb593884ed9f9b3cad1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cafecoffeeday@okicici",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "64fbdc5ade135bada7f89a1f4d29b37d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "prize.flipkart@apl",
+    "merchant_name": "Scam Lifestyle",
+    "qr_hash": "bb699513ff5d55353b7a1f9544553c0d",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "zomato@axl",
+    "merchant_name": "Starbucks",
+    "qr_hash": "203ec1499538f4fbda2b9ba4660ccebc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc@oksbi",
+    "merchant_name": "Nykaa",
+    "qr_hash": "b0ef616cc6af755ee45dceee2567f4fa",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "swiggyrefund@apl",
+    "merchant_name": "Phishing Ola",
+    "qr_hash": "ee97c3d07c49c371241ba6c9cb13f208",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "oneplus@okaxis",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "f0a381de35287e02b496335ca383f0c8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "zomato@oksbi",
+    "merchant_name": "Adidas",
+    "qr_hash": "8ad04dd4d1dc4b1ed1cf838defd8e1af",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma957@boi",
+    "merchant_name": "Puma",
+    "qr_hash": "9f2cbf81454e1b6b34b4879c6cfe9788",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "free_boat@pnb",
+    "merchant_name": "Scam Lifestyle",
+    "qr_hash": "801423c4fff4c42efc01a9017c97b1c6",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "bata@ybl",
+    "merchant_name": "Nykaa",
+    "qr_hash": "5d2733f00b8a974040b6282a40f49046",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma_update@okaxis",
+    "merchant_name": "Scam Zomato",
+    "qr_hash": "214fe11e270afd076d1090c0c10bab13",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "uber@fbl",
+    "merchant_name": "Adidas",
+    "qr_hash": "98450d2d138bde659c9c36c5def33234",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "olagift@ibl",
+    "merchant_name": "Fake Shoppers Stop",
+    "qr_hash": "984bbce2cebf055ca7b2ffb4cce35c2b",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "bigbasket@apl",
+    "merchant_name": "BigBasket",
+    "qr_hash": "e465e1055830892b560074a0cca8f87d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox@cnrb",
+    "merchant_name": "INOX",
+    "qr_hash": "ac46dc3834459e0474cc17a89cd3500b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "gift_jbl@ibl",
+    "merchant_name": "Scam Vijay Sales",
+    "qr_hash": "48461fdcc03132f5086e0182bdd43ca8",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "uber303@paytm",
+    "merchant_name": "Bata",
+    "qr_hash": "a93de1e87b71c36db91b5ca2e010c916",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "samsungstoreurgent@ybl",
+    "merchant_name": "Fake Urban Company",
+    "qr_hash": "897b0d477b9f7e8cc78cabe0b70b06d4",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "xiaomi@boi",
+    "merchant_name": "Croma",
+    "qr_hash": "cf926cc9ba0ec37dba49d2f8877d9e5a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "woodland@okhdfcbank",
+    "merchant_name": "Woodland",
+    "qr_hash": "bc3ca130460eebe67d51bbb00bd6f886",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cafecoffeeday@fbl",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "6331876d6112d56410dd711ad519d97e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl@oksbi",
+    "merchant_name": "Ola",
+    "qr_hash": "5655904332699f5ef0608a66049e4c3e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nike286@ybl",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "c457e083a39511053a02b75644db45ae",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe@okicici",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "254856b6789bd846771096e7b3418b44",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore@pnb",
+    "merchant_name": "Woodland",
+    "qr_hash": "29ddc0cbbab337555a829fefa51ea518",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon132@boi",
+    "merchant_name": "Flipkart",
+    "qr_hash": "8a0152f0e4401cbd0dd833da7d5c3008",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe@cnrb",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "8ab82cf56e880d1ea3c0c805af6a4fed",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers@oksbi",
+    "merchant_name": "Decathlon",
+    "qr_hash": "4c1f1be767db007614a24833c2b220eb",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nike@okicici",
+    "merchant_name": "Amazon",
+    "qr_hash": "0014e6ccbecc250b2e9b2b3fd2f9fcaa",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat.salary@cnrb",
+    "merchant_name": "Fake Swiggy Refund",
+    "qr_hash": "9ab90b1bec3ec4d44194273b4f3345b3",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "puma418@paytm",
+    "merchant_name": "Woodland",
+    "qr_hash": "c5ad3ed4b9588e1abd27ae5bd248055a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@okaxis",
+    "merchant_name": "Fossil",
+    "qr_hash": "86f216151bfee12a691c2e07f879822c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "paytm@ybl",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "c0ae723bad34c83e419aa465e712d687",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "activate_pvrcinemas@iob",
+    "merchant_name": "Phishing Dunzo",
+    "qr_hash": "6256601e117cd22059578642af0c73a4",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "xiaomi@pnb",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "18085aab4765c65ecc63bfe0ab862e27",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "uber72@ibl",
+    "merchant_name": "Oppo",
+    "qr_hash": "35733bf61a657e4783fc2ad2e2b46f84",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "samsungstore.urgent@okkotak",
+    "merchant_name": "Scam BigBasket",
+    "qr_hash": "e12532e32bcf2889c9b66b74ae39020e",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "tanishq230@ibl",
+    "merchant_name": "Titan",
+    "qr_hash": "121ad3875b7f91222ceb33c0aa27a34d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "zomato272@okkotak",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "aa19a2282502c3164b3f3ec9bcabc505",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma@iob",
+    "merchant_name": "KFC",
+    "qr_hash": "52cbd1da5a775889b877c3a20fe65d0c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital@okhdfcbank",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "7cb2613d77e3845e76f542f1d6e28a89",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "casio432@upi",
+    "merchant_name": "Apple Store",
+    "qr_hash": "97dd0e2ce6fad8b2c4d66fd9917ccadc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepehr@boi",
+    "merchant_name": "Phishing Ola",
+    "qr_hash": "e4a97999404d2259300046decc4c0b6d",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "applestoreverification@fbl",
+    "merchant_name": "Fraudulent Domino's",
+    "qr_hash": "f433681a376f728219997b56c4a39245",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "fossil647@okhdfcbank",
+    "merchant_name": "Urban Company",
+    "qr_hash": "5ea69524f6b0f0e45463decef8ffc26b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip_lottery@cnrb",
+    "merchant_name": "Fake Spencer's HR",
+    "qr_hash": "e6b18746cc8d0eda2a7b7849c4860cde",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "pvrcinemas@cnrb",
+    "merchant_name": "Amazon",
+    "qr_hash": "926671e8c1d1b04b7c0e2947adbf9a99",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl863@okaxis",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "b111bd9748939108b4a977cd0de589b0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany808@upi",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "1b30c93a22fed8fe5bc45ca2e295e404",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "verification.spencer's@ybl",
+    "merchant_name": "Fake Nykaa Support",
+    "qr_hash": "f1f1836c377970616a160a59e65bd9e0",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "oneplus48@paytm",
+    "merchant_name": "Xiaomi",
+    "qr_hash": "14ed18df1d19175f579a4c46d153c049",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reward.dunzo@iob",
+    "merchant_name": "Phishing More Market",
+    "qr_hash": "b5872d09a3042e283533693d22e1e9ef",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "swiggy@ybl",
+    "merchant_name": "More Supermarket",
+    "qr_hash": "500d78b213afc16a9efa9b38042ad563",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack@ibl",
+    "merchant_name": "OnePlus",
+    "qr_hash": "3d7f1f140354ee132ba48d83bcd4a4c1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon129@paytm",
+    "merchant_name": "Myntra",
+    "qr_hash": "95d680ffb99feab438da6367e1687354",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola@ybl",
+    "merchant_name": "BigBasket",
+    "qr_hash": "7ce58b08ff7077cc2bb9b0735fcd4cad",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata898@paytm",
+    "merchant_name": "INOX",
+    "qr_hash": "cc254171156a83526b6a24aa3baa53b2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@cnrb",
+    "merchant_name": "Casio",
+    "qr_hash": "c11b32f3f17bf3429107e79c2ec38757",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers818@boi",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "82f6d557bc82fb33bcdcc6191f19b410",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay.deal@paytm",
+    "merchant_name": "Fraudulent Ajio",
+    "qr_hash": "b4fae2bda56943e5592dfd21203f2e01",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "reliancedigital@apl",
+    "merchant_name": "Myntra",
+    "qr_hash": "7cca70ce5c3983742a834863d37ff74b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "puma522@iob",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "d28ef9752ecaca0df34d67a2f97dffcd",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cafecoffeeday464@fbl",
+    "merchant_name": "Tanishq",
+    "qr_hash": "d44647d4176cf09d4ffb271e49ffedec",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart487@okkotak",
+    "merchant_name": "Flipkart",
+    "qr_hash": "8596170c6ec6eeede163bf99d758d116",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok2@cnrb",
+    "merchant_name": "Urban Company",
+    "qr_hash": "c05242354489cbfcf37ee4648cf0bc20",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "mcdonald's@cnrb",
+    "merchant_name": "Paytm",
+    "qr_hash": "42b61572d6b95809390c31953c75cc99",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart101@ibl",
+    "merchant_name": "JBL",
+    "qr_hash": "756c5ad7a016a2cb51710fa77ccd5570",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany@ybl",
+    "merchant_name": "Tanishq",
+    "qr_hash": "b2326f3f5c374d4d3d717396847329b9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "casio@okicici",
+    "merchant_name": "Nykaa",
+    "qr_hash": "762fffcc8d02c3e6391508424e2569a5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "puma@okhdfcbank",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "de8523c133b7e8296dfaefd5afb07b91",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "xiaomi@okaxis",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "2683a94462cc81df78ee85546e817600",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "dunzo@ybl",
+    "merchant_name": "McDonald's",
+    "qr_hash": "c24e94cdeba53889259726c10a06ea2a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma_deal@cnrb",
+    "merchant_name": "Phishing Ola",
+    "qr_hash": "3a97e0ddf5c08ce3a9a4c125aefe889c",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "grofers364@ybl",
+    "merchant_name": "Amazon",
+    "qr_hash": "fd1d68a61e94f390e9327eea440d84cc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers@okkotak",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "65a62fbf525294375237357a554d0f60",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofersactivate@iob",
+    "merchant_name": "Fake Shoppers Stop",
+    "qr_hash": "6ed2759ac7b7add0852b4e679049b0dd",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "moresupermarket@fbl",
+    "merchant_name": "Flipkart",
+    "qr_hash": "3963fd28887a8bed19f9fa56dc52ca86",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox@okkotak",
+    "merchant_name": "Croma",
+    "qr_hash": "06fbf2f6f9a835970c363727fec42f9a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle120@axl",
+    "merchant_name": "Myntra",
+    "qr_hash": "6470cf90136205bedc1ff828fdc6a019",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon@oksbi",
+    "merchant_name": "Oppo",
+    "qr_hash": "5e95e05607e3d20da8ae2c7b3fb74541",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "tanishq@pnb",
+    "merchant_name": "Ola",
+    "qr_hash": "cb8e80ce70a033c90413a276aa5ea229",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut794@iob",
+    "merchant_name": "Ajio",
+    "qr_hash": "539be96695fe762e52090c9b7cf3e4b0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fossil@okhdfcbank",
+    "merchant_name": "Ola",
+    "qr_hash": "fe0b782c6a7c940aa383248b20ca7cc1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "samsungstore@iob",
+    "merchant_name": "Xiaomi",
+    "qr_hash": "81842df55f62aef8c3ff8f45bec293e4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cafecoffeeday@upi",
+    "merchant_name": "Nike",
+    "qr_hash": "02655e4b204128b4f58e54abf9ebf2d6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "decathlon@fbl",
+    "merchant_name": "Dunzo",
+    "qr_hash": "16c4422d7bd98640712f21e26c11e4fd",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons@boi",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "82297e59971d41711ef9c74e6c3cc8e3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urgentcroma@iob",
+    "merchant_name": "Scam Lifestyle",
+    "qr_hash": "05bf7b8696138578124e8203adfbba56",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "pvrcinemas@iob",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "7649a7e2937fa855fcb3bc250053f5f1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma@cnrb",
+    "merchant_name": "Vivo",
+    "qr_hash": "ac4c0a5b660676c87d745da058d9e2be",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon_bonus@apl",
+    "merchant_name": "Fake Urban Company",
+    "qr_hash": "96d28ba07f5b5f4ad578d0bdc1378035",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "tanishq736@iob",
+    "merchant_name": "Realme",
+    "qr_hash": "c17693735cb56a4a5b14f5769cfa6691",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox@okhdfcbank",
+    "merchant_name": "Lenskart",
+    "qr_hash": "0522353a0c845354dcc2230b37550571",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok20@cnrb",
+    "merchant_name": "Oppo",
+    "qr_hash": "995e1ef0a1b21aa3e30f17008278b34d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart@pnb",
+    "merchant_name": "Paytm",
+    "qr_hash": "307fe3641ee147cf37840b664a16dea4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jblcashback@upi",
+    "merchant_name": "Fake Pizza Hut",
+    "qr_hash": "8efa3d344ed4a9559aae4c53ac907f20",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "deal.urbancompany@paytm",
+    "merchant_name": "Fake Myntra",
+    "qr_hash": "6d75dd3ec2bf3cd004a213fd47d614b5",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "fossil@okaxis",
+    "merchant_name": "Decathlon",
+    "qr_hash": "b6dde9d4707eae28313de927c395836a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "offerurbancompany@ybl",
+    "merchant_name": "Fake Pizza Hut",
+    "qr_hash": "a7e8de502d8efc0b2f416453c2b57785",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "inox@axl",
+    "merchant_name": "Fastrack",
+    "qr_hash": "4b928a3b3e6c4c98b422be95f6980643",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "titan@okhdfcbank",
+    "merchant_name": "JBL",
+    "qr_hash": "5989efc77ae4e4823122132398263ce6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc@iob",
+    "merchant_name": "Bata",
+    "qr_hash": "182b4eaa6f5286d7a8459d38291f8fd4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pvrcinemas@pnb",
+    "merchant_name": "Reebok",
+    "qr_hash": "3c467a4d4de710ab8195b6f86c0416b2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "confirm_lifestyle@boi",
+    "merchant_name": "Fake Amazon HR",
+    "qr_hash": "81963e3b16ed82945b0560cc58f83f63",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "oppo@ybl",
+    "merchant_name": "Nike",
+    "qr_hash": "404da5decd60a95af2ee1f117fa38071",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "mcdonald's@axl",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "9183dccddd07ec3eec07c4f9c83db221",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe@oksbi",
+    "merchant_name": "Apple Store",
+    "qr_hash": "e149046a268203863f7782aa6bae6584",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@upi",
+    "merchant_name": "MakeMyTrip",
+    "qr_hash": "8517b76a4296745f75992ed206594ed5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons426@paytm",
+    "merchant_name": "JBL",
+    "qr_hash": "06911943162d24e8527fc8af21de959a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox849@upi",
+    "merchant_name": "Urban Company",
+    "qr_hash": "bbee03135ec1da7b9bd6ca644114e861",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa@ybl",
+    "merchant_name": "Decathlon",
+    "qr_hash": "a8d51a87f17e598fe2d9dc05e6bcbd24",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "woodland@axl",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "5239f90591fdeb3ae2acd2bbaddf27d1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@okhdfcbank",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "2bf9ab9c13eb6dbea0533d7c7580ae9f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc204@fbl",
+    "merchant_name": "Ola",
+    "qr_hash": "d830c58d4dd299ea54b25707f7e7413b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks@apl",
+    "merchant_name": "Casio",
+    "qr_hash": "029120d007265fe42060cbe1d5c7e350",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "tanishq@axl",
+    "merchant_name": "Adidas",
+    "qr_hash": "6a30d403d79e0983b9deefac06beaa51",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa@fbl",
+    "merchant_name": "PhonePe",
+    "qr_hash": "d4f95dcfab402ac02b40a5275d78df63",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "paytm@pnb",
+    "merchant_name": "Myntra",
+    "qr_hash": "92c43d2eb6a840c9e0159620a9db7008",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola@oksbi",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "55110fbc7b895218910f5733b4132afb",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola414@cnrb",
+    "merchant_name": "Domino's",
+    "qr_hash": "fa44220f425f82ca444d843e27730ac8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "titan695@oksbi",
+    "merchant_name": "Spencer's",
+    "qr_hash": "784217caa37b213810d372b1865592dd",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok@pnb",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "feb093ad2a60d6306e21c3c0e8b1757b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "gift.lifestyle@iob",
+    "merchant_name": "Fraudulent Ajio",
+    "qr_hash": "16df6b4ad187e08dc6c6a79984bd3aa2",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "fossil.hr@upi",
+    "merchant_name": "Fake Spencer's HR",
+    "qr_hash": "d5522f0dac90b461ee4ed7940d83bf0e",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "swiggy398@okaxis",
+    "merchant_name": "More Supermarket",
+    "qr_hash": "11a27771609e5778e57f866dd3014495",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma@oksbi",
+    "merchant_name": "Casio",
+    "qr_hash": "771f4548fd938a69f00b2ed9e53e11c1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fossil@fbl",
+    "merchant_name": "Domino's",
+    "qr_hash": "c5f558a5df28c064a2522a631bfcd06d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe@okaxis",
+    "merchant_name": "Flipkart",
+    "qr_hash": "7f1d80daca1fa92064b663ec86493188",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo@axl",
+    "merchant_name": "Domino's",
+    "qr_hash": "28e040549ca01f6d84c40b8c4a2263eb",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers@pnb",
+    "merchant_name": "Oppo",
+    "qr_hash": "e9ac2b28b83c95d29d091466bcc178b4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "adidas183@ybl",
+    "merchant_name": "Casio",
+    "qr_hash": "ade2f6c72212169885104c85ebb558bd",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack823@okaxis",
+    "merchant_name": "Boat",
+    "qr_hash": "7cd163df38e289ee42ad83de1208d19f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "adidas181@okicici",
+    "merchant_name": "Myntra",
+    "qr_hash": "b4b5cd10dbda96f25350872b9413cd26",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "shoppersstop@pnb",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "9d49050ff4061c0f94cee6fdc6888788",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe_verification@fbl",
+    "merchant_name": "Fake Croma",
+    "qr_hash": "1155ef0316e61e396c0be789e9ce89ec",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "jbl@upi",
+    "merchant_name": "Urban Company",
+    "qr_hash": "7ca6eb1da9dd7b899abe88b3ce0bf8fc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack364@cnrb",
+    "merchant_name": "Myntra",
+    "qr_hash": "f3e53cdb611de626f870d7f6ba0f0201",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestylereward@ibl",
+    "merchant_name": "Scam KFC Support",
+    "qr_hash": "94894f220ad21a1b83af8e70441fcf60",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "swiggy@okkotak",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "5a809c6ef5198296fa2a419fa05cdbe3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "realme@axl",
+    "merchant_name": "Realme",
+    "qr_hash": "0d77e5e2eb683e15956f4fb9f3b0d509",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay@cnrb",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "c66f7a60478204704d1bc2c630007bb8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "flipkart@fbl",
+    "merchant_name": "Myntra",
+    "qr_hash": "3f77c8c9e627c39d454033a2a53e9d76",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip@cnrb",
+    "merchant_name": "Nykaa",
+    "qr_hash": "ce958ddd2362cb399a53643d67a0372a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata734@okkotak",
+    "merchant_name": "Myntra",
+    "qr_hash": "9f635449d41f6a9f8882520f9f92341a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "mcdonald's@ybl",
+    "merchant_name": "Xiaomi",
+    "qr_hash": "1c8e95bd10a16cf2db9be3643cff294e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "moresupermarket@upi",
+    "merchant_name": "Lenskart",
+    "qr_hash": "460f8050624f44e9f65920c5bff9b465",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pvrcinemas@paytm",
+    "merchant_name": "Starbucks",
+    "qr_hash": "0fa10776b3d32d0eca96108fec467a83",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's@fbl",
+    "merchant_name": "BigBasket",
+    "qr_hash": "b1d2defc873f1bbe166939ba06570616",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl@ibl",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "080efd1950ce509b371d44b8d9e50d13",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pvrcinemas@apl",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "2fbff3e584a0c0b2631f8091d8a4ef45",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl996@pnb",
+    "merchant_name": "Spencer's",
+    "qr_hash": "bc19c306cff4f94c766e7dc807328d26",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany_discount@fbl",
+    "merchant_name": "Fake Croma",
+    "qr_hash": "f64e8ab950df63550a525259a744aaca",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "myntra@okkotak",
+    "merchant_name": "BigBasket",
+    "qr_hash": "7d7060ab9606b88b58f93369788e15de",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo@axl",
+    "merchant_name": "Amazon",
+    "qr_hash": "eed7fa4f544b44ba7f1329bb16dad2fe",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo@upi",
+    "merchant_name": "Swiggy",
+    "qr_hash": "cbf33134880d9c59c9650bff6a305258",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo@axl",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "c02e3298f05c57e8520fdf0b56593597",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "winner.fossil@axl",
+    "merchant_name": "Phishing INOX",
+    "qr_hash": "c4d2f22236d53a2ad91c3e12b353e077",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "croma138@okicici",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "6b792127330ff9b5e094218970e09860",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bigbasket@okhdfcbank",
+    "merchant_name": "Reebok",
+    "qr_hash": "7af43ae4bbe27999d6022efadebc5813",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok@iob",
+    "merchant_name": "Boat",
+    "qr_hash": "28dfb1af30cf42140fcd26091ee6cbc0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "flipkart@iob",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "da148496fddbf112058ab0d9c1444cd8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo624@pnb",
+    "merchant_name": "Bata",
+    "qr_hash": "65043aec9526dc78e5253b2b659e82d3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip@iob",
+    "merchant_name": "Grofers",
+    "qr_hash": "86efd421b3e1863f203444b791e2802c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "paytm.reward@ybl",
+    "merchant_name": "Scam BigBasket",
+    "qr_hash": "1f3ca748808e34169f1487e157b6deab",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "applestore@upi",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "48099844423f4d7eaf603dbfae449162",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay@paytm",
+    "merchant_name": "Apple Store",
+    "qr_hash": "a280703249967d6f70e78b6013488a21",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "tanishq893@okicici",
+    "merchant_name": "INOX",
+    "qr_hash": "0ed411a9442717b629d97d1d60672e39",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "swiggy@paytm",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "d027f6c95691457fed68d72ed7a49f4b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nike@pnb",
+    "merchant_name": "McDonald's",
+    "qr_hash": "17cfa2845ec6cdc7a03ca7943d5e2c69",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oneplus234@boi",
+    "merchant_name": "Paytm",
+    "qr_hash": "7a715badeb643a1d070218dd62a50b8c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "mcdonald's@pnb",
+    "merchant_name": "PhonePe",
+    "qr_hash": "c00684a48e33e3f65f704efb4a94c42d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oneplus@okicici",
+    "merchant_name": "Boat",
+    "qr_hash": "5bcd0785954417d084c3eb1bd74c7fcc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cashback.pizzahut@paytm",
+    "merchant_name": "Phishing Dunzo",
+    "qr_hash": "b00815fba60b876d510f2463e8eb358c",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "pizzahut@cnrb",
+    "merchant_name": "Tanishq",
+    "qr_hash": "9786d0ec3e7d1f5ef6adac0af3e288c8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "samsungstore@oksbi",
+    "merchant_name": "Fossil",
+    "qr_hash": "f115cec6bd2e718cda6f2c097caf275d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox.hr@ibl",
+    "merchant_name": "Fraudulent Ajio",
+    "qr_hash": "00e7f241d28f4feb4d7981dd83f934c8",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "pvrcinemas@ybl",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "32833abb0b2cfc35548994f876e66192",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo@fbl",
+    "merchant_name": "Myntra",
+    "qr_hash": "e02a2bdda1492a194467eb70194aa091",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "woodland@apl",
+    "merchant_name": "Spencer's",
+    "qr_hash": "3579d0ad0a042fd6aede6097312926c5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "moresupermarket@boi",
+    "merchant_name": "Grofers",
+    "qr_hash": "bccf2671dffab149b1b9fcba065bf3df",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's@paytm",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "91831bbad38641d333ef522faba8dcba",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bigbasket778@paytm",
+    "merchant_name": "Tanishq",
+    "qr_hash": "a218843f79895790327cd3ee350051cb",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "verificationboat@boi",
+    "merchant_name": "Phishing Dunzo",
+    "qr_hash": "63fd8bf0c340dca9da6a3be8c42ef22e",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "googlepay@upi",
+    "merchant_name": "Lenskart",
+    "qr_hash": "40e483ca50fb8be5387c2eee9f9cab2c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's_winner@ibl",
+    "merchant_name": "Phishing Flipkart",
+    "qr_hash": "40f7ee58d84c1ff604f0a1ca9440d134",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "puma@paytm",
+    "merchant_name": "Swiggy",
+    "qr_hash": "1b2fe278d4c674b29c63b1a1ca9e8f61",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma@okkotak",
+    "merchant_name": "Flipkart",
+    "qr_hash": "0677ed9da058d599a69fb34ea1ebce82",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata148@iob",
+    "merchant_name": "Nike",
+    "qr_hash": "20e0f1a79d6924959c1ee66987eeaf22",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany@upi",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "ce5a03e44068999080c1455ad56a5d1a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox@cnrb",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "9a39c3025168ae0eaaa222ca6fe8a38d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon379@okkotak",
+    "merchant_name": "Uber",
+    "qr_hash": "58af40e19ddfb528b173e0b8c92df3da",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle@pnb",
+    "merchant_name": "Paytm",
+    "qr_hash": "cba69566b1ac715271df99501cb3848c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "decathlon@apl",
+    "merchant_name": "Boat",
+    "qr_hash": "1ac09845b43a15b10e1f98c53902de90",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "puma@oksbi",
+    "merchant_name": "Nykaa",
+    "qr_hash": "9cc45ee435d18d7dbcfc700b2af20d75",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urgentnike@boi",
+    "merchant_name": "Scam Vijay Sales",
+    "qr_hash": "1cbf134754c44455e4adfb86896e8622",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "nike.bonus@oksbi",
+    "merchant_name": "Fake Grofers HR",
+    "qr_hash": "46b8fda033ded1cce538b151e1ff7c2f",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "paytm@boi",
+    "merchant_name": "Apple Store",
+    "qr_hash": "cc36801203cf5fdc2af70a3e79ec9f55",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut@okaxis",
+    "merchant_name": "Spencer's",
+    "qr_hash": "fdd27087bd81e08e1c76aa8180ad4942",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fossil904@apl",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "ad8184cc20c5bfe20e01b5891a070ad6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@ibl",
+    "merchant_name": "Bata",
+    "qr_hash": "dcc101e33e3e5b232eaf0774e214eec9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat771@ibl",
+    "merchant_name": "Xiaomi",
+    "qr_hash": "4f1823ba5da4d2c21f5ec3544be9b968",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nike334@okicici",
+    "merchant_name": "OnePlus",
+    "qr_hash": "4719559b9f36537db81e0da9380a20b9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks859@apl",
+    "merchant_name": "Nike",
+    "qr_hash": "c887018fec12f8fed25577aede150d14",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cafecoffeeday@boi",
+    "merchant_name": "MakeMyTrip",
+    "qr_hash": "e7ff18432a04b379030a9c3ce75eaf68",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "dunzo@oksbi",
+    "merchant_name": "Ajio",
+    "qr_hash": "4d7dd10af80b29a3617ab86c3705beb8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany@okhdfcbank",
+    "merchant_name": "Zomato",
+    "qr_hash": "e030d7d22ceb4dca42b6f9f04c84a4ed",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle@upi",
+    "merchant_name": "Paytm",
+    "qr_hash": "90451509c01e064d92c26b5618c43ca1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra@upi",
+    "merchant_name": "Decathlon",
+    "qr_hash": "7187d79c865295ae7b9a966c9bd17b47",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox927@okaxis",
+    "merchant_name": "More Supermarket",
+    "qr_hash": "42a77e33b61d89edc089289157caf2f5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe@cnrb",
+    "merchant_name": "PhonePe",
+    "qr_hash": "a3ee74b82c63869f984320dbe91c19a7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrackfree@boi",
+    "merchant_name": "Fake Spencer's HR",
+    "qr_hash": "1f18fcdf0dbe45eeadb93d15c3c8d24c",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "shoppersstop343@boi",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "f34e6d68c3d5351d5e867db76e45466e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "zomato@okicici",
+    "merchant_name": "Google Pay",
+    "qr_hash": "c8c33ffa62b5db843f64cdcec89f9105",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra@oksbi",
+    "merchant_name": "Spencer's",
+    "qr_hash": "f42ff1fb63c84323dd2487cac7a05767",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe@ybl",
+    "merchant_name": "Vivo",
+    "qr_hash": "417515f2406c06bf8a25115639c4c016",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "woodland@apl",
+    "merchant_name": "Amazon",
+    "qr_hash": "4e0404cb673f6020087551bd5ba99ee2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "adidas351@ibl",
+    "merchant_name": "Puma",
+    "qr_hash": "1301245e545e35d8f25cee8d684a0e0c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "uber822@paytm",
+    "merchant_name": "OnePlus",
+    "qr_hash": "7fe6d3363e4d20edac547716c6b16ce6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra@okkotak",
+    "merchant_name": "Zomato",
+    "qr_hash": "ea427031ef4c3f053a30af18f1d42982",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut@apl",
+    "merchant_name": "Fastrack",
+    "qr_hash": "9da69b699a70c9611cec67d6e5b1535b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "paytm@boi",
+    "merchant_name": "Realme",
+    "qr_hash": "58c9515d6440444e7fcf99093f1acb75",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vijaysales146@axl",
+    "merchant_name": "Vivo",
+    "qr_hash": "a0e92c86c1c22a586740868c453e36e6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bonus.shoppersstop@okhdfcbank",
+    "merchant_name": "Scam CCD",
+    "qr_hash": "a9b587dc474e92719e51c949277c0677",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "zomato_reward@ybl",
+    "merchant_name": "Fake Google Pay Support",
+    "qr_hash": "c2a28185482dd4b92071afe377da6b04",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "fastrack.security@okicici",
+    "merchant_name": "Phishing INOX",
+    "qr_hash": "4046750138826752f735edfaac0f5403",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "oppo598@boi",
+    "merchant_name": "Myntra",
+    "qr_hash": "ac3782874ea8e1ea6c19583248253329",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@okkotak",
+    "merchant_name": "Nykaa",
+    "qr_hash": "0ed9519ffaab31bbdbe46bb1629370c6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma@okicici",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "190d1acb889068e537bfa293814f0693",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip@pnb",
+    "merchant_name": "Urban Company",
+    "qr_hash": "bfadbcce3c11000e82ea7d224a885c9e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox@apl",
+    "merchant_name": "Ola",
+    "qr_hash": "62379b13dddd907961b3fba0a78e1c69",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vijaysales@okhdfcbank",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "428cfc7a189c888aa907733ac846ae95",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oneplus534@okaxis",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "465edc4e00ff275c8515671af15483f1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nike@cnrb",
+    "merchant_name": "Flipkart",
+    "qr_hash": "35c542dec58b508f3505a2cb43ef479c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "woodland@iob",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "74fe8aaa0b312947260b44db846a33e1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe@cnrb",
+    "merchant_name": "More Supermarket",
+    "qr_hash": "1cdc0e4e735adb327a8ec8b2cca8471e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "moresupermarket@axl",
+    "merchant_name": "Grofers",
+    "qr_hash": "0b5fa118945b9c8b9b28f56b04b6c8e2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo368@paytm",
+    "merchant_name": "Tanishq",
+    "qr_hash": "9419531ac04993ab2b4f89fc44d71113",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo@upi",
+    "merchant_name": "Woodland",
+    "qr_hash": "d979fe15645191b3dd68f72c68a21709",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons393@upi",
+    "merchant_name": "Tanishq",
+    "qr_hash": "9fd272fc5dcfa5d5b29c7384c5d7bf75",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa931@okkotak",
+    "merchant_name": "Nykaa",
+    "qr_hash": "52f91c40685aefea1980b8813844c4a0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "shoppersstop439@iob",
+    "merchant_name": "MakeMyTrip",
+    "qr_hash": "bfa321b211500ce18c1763b2cd455a88",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "uber739@boi",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "15191f04bc0cb6709ec27ea7e4158515",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's@iob",
+    "merchant_name": "Adidas",
+    "qr_hash": "aa05519e043fe421fedb1203f60f8b83",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "swiggy@cnrb",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "10093877139154984db03ffe18579746",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "realme501@okhdfcbank",
+    "merchant_name": "Amazon",
+    "qr_hash": "cf58c3782979f8dd5d8c914a76528de0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital@cnrb",
+    "merchant_name": "Uber",
+    "qr_hash": "3360ba8620e06d71db8aa84c262b1a7d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "zomato@boi",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "481397955d509723a9dfd33afb7ddb4d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "winnerreebok@fbl",
+    "merchant_name": "Fake BookMyShow Support",
+    "qr_hash": "b1c4a2c803f903237299f2b1269c08b0",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "swiggy806@pnb",
+    "merchant_name": "Titan",
+    "qr_hash": "64596c6b6aedb408bb77c3c2e140b565",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc@fbl",
+    "merchant_name": "Starbucks",
+    "qr_hash": "88ef141ed08d47f6fc594157f9b75ca6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cafecoffeeday@ybl",
+    "merchant_name": "OnePlus",
+    "qr_hash": "1948181bfd31853850a858899794e95b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "confirm_googlepay@cnrb",
+    "merchant_name": "Fake Uber HR",
+    "qr_hash": "8c2307858f345c0dc53d2b2b09201c7b",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "urbancompany@boi",
+    "merchant_name": "Xiaomi",
+    "qr_hash": "21ae19d5935c2e1870ff2d43fe807212",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack@pnb",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "3b598fe6487741774da53198771deedc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons778@oksbi",
+    "merchant_name": "Spencer's",
+    "qr_hash": "0d3afa7bea660ce9fe1fbd38ebc378ea",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fossil@cnrb",
+    "merchant_name": "Starbucks",
+    "qr_hash": "8a6e318174d45fc1e4416e5057da1196",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa@apl",
+    "merchant_name": "Decathlon",
+    "qr_hash": "498dd9d8d2649bc0cce698b5f532b1ff",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "woodland@oksbi",
+    "merchant_name": "Grofers",
+    "qr_hash": "2e96f59c207445f828abed568de4629d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut24@okicici",
+    "merchant_name": "Nykaa",
+    "qr_hash": "7f94d25c8b391f609c38c0dbfb971503",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "zomato@iob",
+    "merchant_name": "Grofers",
+    "qr_hash": "b11b1e8b5f676a9a474dd88095dc4387",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "dealkfc@okaxis",
+    "merchant_name": "Fake Grofers HR",
+    "qr_hash": "b0a5704adaf20287f4baeaa225a26b5b",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "prizebookmyshow@boi",
+    "merchant_name": "Fake Pizza Hut",
+    "qr_hash": "7933c9367b0ddf2d17675ed5ae6fe35e",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "puma701@apl",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "dba177ce105b56041ecc4db761369cc1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc@okkotak",
+    "merchant_name": "Lenskart",
+    "qr_hash": "66c8edec86cbb846ee42491e12f7cf9b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital_cashback@cnrb",
+    "merchant_name": "Phishing INOX",
+    "qr_hash": "974c620cf3a3ce3a3c1d5aacbc09efb7",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "vivogift@okicici",
+    "merchant_name": "Fraudulent Reliance",
+    "qr_hash": "bbce98ae927d77e46fccc7fd8e422a53",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "verification_urbancompany@fbl",
+    "merchant_name": "Scam MakeMyTrip",
+    "qr_hash": "62f5f473ecb57c6a9bbab9f802f037b9",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "kfc@boi",
+    "merchant_name": "Ajio",
+    "qr_hash": "330352914f29368f73213b8898d5ae0c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks@fbl",
+    "merchant_name": "Vivo",
+    "qr_hash": "8e76099b39d9caa6d59a85cbac515fd7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra722@okhdfcbank",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "eb72e31e9b520f85aeecea0521ca4ad4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons@upi",
+    "merchant_name": "Flipkart",
+    "qr_hash": "864b92dc906ffc863c7ecc45a81513d3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@oksbi",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "626f8df5d6327b29083d8d0e60215ebc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fossil641@iob",
+    "merchant_name": "Fastrack",
+    "qr_hash": "9b168461a78d6fa8b170622245772fa2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reward_phonepe@fbl",
+    "merchant_name": "Fake Grofers HR",
+    "qr_hash": "89bd0119208a9dcc2660b6d1d47f5ebb",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "hr.pizzahut@ibl",
+    "merchant_name": "Scam BigBasket",
+    "qr_hash": "f6f370082c0dd665bbccef93e627c3a7",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "paytm202@paytm",
+    "merchant_name": "Paytm",
+    "qr_hash": "1ca9adb09f9d69c997080f6b3c192b7b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart@oksbi",
+    "merchant_name": "Ajio",
+    "qr_hash": "d0cbd2660dafa88aacc15dc73bea37f4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers@iob",
+    "merchant_name": "Casio",
+    "qr_hash": "a872921c2ae305bc81d1f7d064ad79e1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc865@ibl",
+    "merchant_name": "Croma",
+    "qr_hash": "98e8fe24693894ea851affc1f82cf215",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "moresupermarket@ybl",
+    "merchant_name": "Casio",
+    "qr_hash": "7434fb8479d66437a18ce7d291ee1202",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "puma@okaxis",
+    "merchant_name": "INOX",
+    "qr_hash": "75482cb785100c8e1092c52b8449a6b4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore447@axl",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "06ef7aa5f77617a2314b2f192508272d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore@apl",
+    "merchant_name": "McDonald's",
+    "qr_hash": "904ab58ed9a923b48a24c74d7e04f98b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "discount_domino's@cnrb",
+    "merchant_name": "Fake Amazon HR",
+    "qr_hash": "80c8e8358a169efc648658fde516c734",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "myntra421@cnrb",
+    "merchant_name": "Adidas",
+    "qr_hash": "7ea13ab29ccf2f883889ea5e5e7576a2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay@okicici",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "48834fac5ed213099b68e34216cb71d2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "zomato495@okhdfcbank",
+    "merchant_name": "Dunzo",
+    "qr_hash": "2949e31caf178421797481370c5f79f9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "uber@paytm",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "cbb426ce11dfe806c91f26e7b9fc692d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow283@ybl",
+    "merchant_name": "Boat",
+    "qr_hash": "e78232710fbf31e1fc47cb588b01e335",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "freelenskart@okkotak",
+    "merchant_name": "Fake Starbucks HR",
+    "qr_hash": "7cefe31d09dccc65d819e0b5b45659f5",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "googlepay@okaxis",
+    "merchant_name": "Zomato",
+    "qr_hash": "6ee5da3167bb1d66a25099e33e4d49be",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl@okaxis",
+    "merchant_name": "Nykaa",
+    "qr_hash": "b4d3b6ed8cf7fbe3842a3638e9e77202",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut@axl",
+    "merchant_name": "INOX",
+    "qr_hash": "938fe1506372e84d4811cf1ee70c5120",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@upi",
+    "merchant_name": "Puma",
+    "qr_hash": "ab5e81ec037a8b61f5d0a2fd009a6a61",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "prize_bigbasket@okicici",
+    "merchant_name": "Scam Lenskart",
+    "qr_hash": "6104c3470d4180de0a1dbe4d53caf69a",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "pantaloonsconfirm@okicici",
+    "merchant_name": "Fake Starbucks HR",
+    "qr_hash": "19abf4ec3aedde655973373c2920e285",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "realme314@ibl",
+    "merchant_name": "Grofers",
+    "qr_hash": "63ad4bb71af95c29d6e535a8ce3a9555",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc@axl",
+    "merchant_name": "Titan",
+    "qr_hash": "5a5ccc77730b09b7980cf9d20ac73202",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "hr.samsungstore@upi",
+    "merchant_name": "Fake Tanishq Support",
+    "qr_hash": "420ace442a28182eaf6771e0db588090",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "jbl823@axl",
+    "merchant_name": "Grofers",
+    "qr_hash": "633b465eb9d38dc101fcd73c530be4e6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "tanishq995@okaxis",
+    "merchant_name": "McDonald's",
+    "qr_hash": "57c16fa72fc04dd0b650a699429e7fe5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vijaysales@okkotak",
+    "merchant_name": "Ola",
+    "qr_hash": "ff87b2ceabd990ed74fc76a21bb1085a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "woodland@fbl",
+    "merchant_name": "Amazon",
+    "qr_hash": "1ca9867de53cfd6f1a56c66b8eaf2f0c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "moresupermarket@upi",
+    "merchant_name": "Decathlon",
+    "qr_hash": "a2a1f1c8df4b36903e5866adbcd5f822",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ajio@oksbi",
+    "merchant_name": "Ajio",
+    "qr_hash": "bb8aa4d4667f5b748747899236423667",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oneplus@okhdfcbank",
+    "merchant_name": "Google Pay",
+    "qr_hash": "9340943e4887042a182f636d3ad31a3a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "swiggy@cnrb",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "0fffdd414de10a4437f273bbb2b28425",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons@pnb",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "66c143b215701143fb445ec45c6ccd2e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox_cashback@ybl",
+    "merchant_name": "Fake PVR Support",
+    "qr_hash": "bc271dcb1ca11aa4caee1c5ee8dbbbd8",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "shoppersstop@paytm",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "ea44ae2c898a24b6ec1411fca708294b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore599@boi",
+    "merchant_name": "Ola",
+    "qr_hash": "dccd7811905dc93d3cc2568601f239c1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "xiaomi706@fbl",
+    "merchant_name": "Zomato",
+    "qr_hash": "4d51a9dff6f79304bc78c2757c8d129b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's84@paytm",
+    "merchant_name": "Ajio",
+    "qr_hash": "8c529293ddda2f99f15c3dbd14657589",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "tanishq688@oksbi",
+    "merchant_name": "McDonald's",
+    "qr_hash": "068e692469280fbce1b257d048e1388f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat633@iob",
+    "merchant_name": "McDonald's",
+    "qr_hash": "52b45da1b79983779db15df13f09f698",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon@axl",
+    "merchant_name": "Decathlon",
+    "qr_hash": "34f99a38428843cc1951c15f54dcc9f3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bigbasket491@apl",
+    "merchant_name": "Starbucks",
+    "qr_hash": "f1c396913660a10640e87162d2ed7483",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's537@pnb",
+    "merchant_name": "Woodland",
+    "qr_hash": "745bef2b39bf89f0e3ac544866165134",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "samsungstore259@paytm",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "d5b2be2a677271d65f88ff6264679f1a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip@okkotak",
+    "merchant_name": "Ola",
+    "qr_hash": "e8ffda0a821f503e8520bdb351f35443",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers@iob",
+    "merchant_name": "Spencer's",
+    "qr_hash": "7efb159b5084020330e0a4a23b7ea960",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "rewardadidas@pnb",
+    "merchant_name": "Fake Starbucks HR",
+    "qr_hash": "f01e0d82df6b80ce27eb775a19b6a9f8",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "moresupermarket@ibl",
+    "merchant_name": "McDonald's",
+    "qr_hash": "0cd34d18567533378782b704c39a3a89",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart@boi",
+    "merchant_name": "Fossil",
+    "qr_hash": "9e258502ef446e697235c560ffc7c45f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital@okkotak",
+    "merchant_name": "Starbucks",
+    "qr_hash": "d9d4e386f8c31385d3e8ef6438eaf682",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo215@fbl",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "cd13f92be95f1a7c14b3678e1d707a5b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "moresupermarket@upi",
+    "merchant_name": "Oppo",
+    "qr_hash": "88c4ecbb1d882f1277bfc12eafa4ef21",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vijaysales@oksbi",
+    "merchant_name": "Woodland",
+    "qr_hash": "9a82d04b7b3e3f71757f3116d63328fd",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo@okaxis",
+    "merchant_name": "Flipkart",
+    "qr_hash": "7ef4d9aefb01a698da8e6f7aa959cda3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "adidas_offer@ybl",
+    "merchant_name": "Scam BigBasket",
+    "qr_hash": "a3e50e80e797e642786f8387e8a80f49",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "zomato@boi",
+    "merchant_name": "Zomato",
+    "qr_hash": "ca462d50014887feb34096fff2c442a4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo247@boi",
+    "merchant_name": "KFC",
+    "qr_hash": "550376481cd4648345606e09f7f49299",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bigbasket@ybl",
+    "merchant_name": "Domino's",
+    "qr_hash": "c90de6a8a93e542d5bd6b5759bb0d419",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok241@oksbi",
+    "merchant_name": "Swiggy",
+    "qr_hash": "75651ce4426ad8b5e0d50aa0f194bb0e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vijaysales@okkotak",
+    "merchant_name": "Fossil",
+    "qr_hash": "1d5e4d10d5c8c96dc422f9965d8de7c0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "titan743@cnrb",
+    "merchant_name": "More Supermarket",
+    "qr_hash": "97cabfd8b08ec76089fdfb2ae423ca70",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "activate_bookmyshow@fbl",
+    "merchant_name": "Scam Lenskart",
+    "qr_hash": "dd85e7ebd3fd8a4269326ac08b462af4",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "deal_inox@ibl",
+    "merchant_name": "Fake Pizza Hut",
+    "qr_hash": "08e1c3786fee0de32b789cad69238636",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "phonepe@ybl",
+    "merchant_name": "Decathlon",
+    "qr_hash": "bf9c438b4e0a9ffc75a9421107fd560d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "adidas.urgent@ybl",
+    "merchant_name": "Fake Uber HR",
+    "qr_hash": "a39f259bdbc56b90378ebf51641fe903",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "pizzahut155@ibl",
+    "merchant_name": "Xiaomi",
+    "qr_hash": "9d3438cf13337b17a327602b3a5afae9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "paytm455@iob",
+    "merchant_name": "Realme",
+    "qr_hash": "0df44ed214d72d117d34bf41bc3ffd94",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bigbasket898@okaxis",
+    "merchant_name": "INOX",
+    "qr_hash": "27811fe51c4b592ff64cbf0a86f66de3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ajio141@okhdfcbank",
+    "merchant_name": "Grofers",
+    "qr_hash": "b20c402e41471176cac38e925a4d4cf8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa407@iob",
+    "merchant_name": "Grofers",
+    "qr_hash": "a0f80e4fa768184f12096400118ad115",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip@apl",
+    "merchant_name": "Google Pay",
+    "qr_hash": "1dd11012207953647a48fe25d9cb33cc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "samsungstore@fbl",
+    "merchant_name": "Fastrack",
+    "qr_hash": "965150114c057533885fa50eda0f1487",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok620@pnb",
+    "merchant_name": "Woodland",
+    "qr_hash": "b8c7852cec99a0a65a27ee90469e131a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "flipkart853@iob",
+    "merchant_name": "Tanishq",
+    "qr_hash": "a94df7fb20bc8d6519dfaa29abc1eb29",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok@oksbi",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "20888a855bec7e369e7734df2ddfd284",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "tanishq@axl",
+    "merchant_name": "Casio",
+    "qr_hash": "a652685c6c60e746e2c8d054a8aeab40",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra@boi",
+    "merchant_name": "Paytm",
+    "qr_hash": "5917cf26c3d7a184e7fe3df617356eb5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola@okkotak",
+    "merchant_name": "Decathlon",
+    "qr_hash": "2dd4658327ef9872b5bf4c16d62f4285",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's@boi",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "93a6c5da4407179f09384460dd571a37",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "flipkart@axl",
+    "merchant_name": "Google Pay",
+    "qr_hash": "a4e92d5abdaac57cfbd9b690aaf924b6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "uber51@boi",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "71a963eaa86c7a5a64f1271eb91adf8c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "moresupermarket@ybl",
+    "merchant_name": "Zomato",
+    "qr_hash": "306597da6744808d51da6019eda9ed19",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "woodland163@ibl",
+    "merchant_name": "Flipkart",
+    "qr_hash": "71852d3f3ae8dbc2efd211739e94c726",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore@okkotak",
+    "merchant_name": "Fastrack",
+    "qr_hash": "7f9ba8304fdc1ae48c86ac410308acb9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "casio976@fbl",
+    "merchant_name": "Boat",
+    "qr_hash": "fb2ce7c029a30950b3944ec7ef1b629e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo501@boi",
+    "merchant_name": "Fastrack",
+    "qr_hash": "810a1479b5f5717e18914337fd8718d5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon@okicici",
+    "merchant_name": "Swiggy",
+    "qr_hash": "f8cea2f9ddeed3e186c863e48352a7e5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bonus_ola@fbl",
+    "merchant_name": "Phishing Flipkart",
+    "qr_hash": "3ec995bad873cdb18ee7640db0ef9822",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "starbucks@okicici",
+    "merchant_name": "OnePlus",
+    "qr_hash": "f5e9a106a20a14813c917106c2be64df",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons@ibl",
+    "merchant_name": "Woodland",
+    "qr_hash": "a2d8fbd8e3f5be4143e94dc1200af8ce",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok@upi",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "ec62c081366941dc44e6080003175d92",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox@axl",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "96ddd9b0c131261999be3acc592ab3dc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "uber@fbl",
+    "merchant_name": "Ola",
+    "qr_hash": "bc4527112a6ad10184cbc33563dd60c4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pvrcinemas144@iob",
+    "merchant_name": "Dunzo",
+    "qr_hash": "143ee13029136606bb69e933811c6c72",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe@boi",
+    "merchant_name": "Woodland",
+    "qr_hash": "e913f710cadf5f699c92383292d100c1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks351@fbl",
+    "merchant_name": "Woodland",
+    "qr_hash": "24365e9ba0ea921a427b4e7374d1f192",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@okaxis",
+    "merchant_name": "Spencer's",
+    "qr_hash": "e36234b85e77191ebffe68c16f317f1b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "winner.nike@fbl",
+    "merchant_name": "Fake Grofers HR",
+    "qr_hash": "3ab11515d91126d3a486b8643d818ee2",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "titan@iob",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "a3844e5d05c7c893485f7509fbcec630",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nike57@ibl",
+    "merchant_name": "Uber",
+    "qr_hash": "cc859521a98978fa40c3d1c1a05119ec",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks_update@cnrb",
+    "merchant_name": "Scam CCD",
+    "qr_hash": "8a7cd26578904be80c75b506fbe02c13",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "croma562@axl",
+    "merchant_name": "Casio",
+    "qr_hash": "42d0cb802a612e9c0058eea8741ead60",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "decathlon@ybl",
+    "merchant_name": "BigBasket",
+    "qr_hash": "430802e4553bdb5d4c45aa4a2cc19b3c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pvrcinemas@pnb",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "bc12f9898a7fcedd3579bcff4a1ad9b3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "shoppersstop@okhdfcbank",
+    "merchant_name": "KFC",
+    "qr_hash": "75c7e10dd49371c5d4bab9f40661f98a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oneplus@iob",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "ba37c3dbb478987547da7d64710598b8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart@ibl",
+    "merchant_name": "Domino's",
+    "qr_hash": "67a29552f2ace6d843695037c696bb6f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "rewardpizzahut@ybl",
+    "merchant_name": "Phishing More Market",
+    "qr_hash": "f4c7e436dedf89f6e1557d51a15457a5",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "amazon901@upi",
+    "merchant_name": "Xiaomi",
+    "qr_hash": "2bf7174c1fa4c55fd25b2d6504ef3995",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "swiggy@pnb",
+    "merchant_name": "Ola",
+    "qr_hash": "6b854d57e824785a3ddcfb57c22d3f94",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "update_makemytrip@okkotak",
+    "merchant_name": "Fake BookMyShow Support",
+    "qr_hash": "18e860583e06e0d286681a73302770b2",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "domino's@cnrb",
+    "merchant_name": "KFC",
+    "qr_hash": "e09778f0cf33cc70cd790ed0c408880e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "woodland@ibl",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "29703412d1a5c3a36ecc8377867f1fe9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urgent.casio@ibl",
+    "merchant_name": "Fake Uber HR",
+    "qr_hash": "38dbac9461ecd2408e2530ab7b2f1e9c",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "bookmyshow@pnb",
+    "merchant_name": "Grofers",
+    "qr_hash": "5243a2a209395b6740dc1b6ab0bd5646",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany@fbl",
+    "merchant_name": "OnePlus",
+    "qr_hash": "1a142e5be3886086c71d976027b4cc66",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "titan.winner@oksbi",
+    "merchant_name": "Fake Myntra",
+    "qr_hash": "a0fe5c79e194f9ed72ea6d554b0a6040",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "mcdonald's@apl",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "8fb7110ea1ed18ef74dc52fb15ea4137",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's@upi",
+    "merchant_name": "Apple Store",
+    "qr_hash": "5ea3d9eb380af07e77fdd8a68969869e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers172@okaxis",
+    "merchant_name": "PhonePe",
+    "qr_hash": "78f563825f85027ccaa322fc283e7abe",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "decathlon@boi",
+    "merchant_name": "OnePlus",
+    "qr_hash": "feeea83371f3f93e861e084b33e611e7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's61@upi",
+    "merchant_name": "Zomato",
+    "qr_hash": "1b497637b56dd9aea032badd34e7bdbf",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "offer_pvrcinemas@apl",
+    "merchant_name": "Fake Uber HR",
+    "qr_hash": "01593fc5a1d1028ed89cd85b63837a1b",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "boat@fbl",
+    "merchant_name": "Croma",
+    "qr_hash": "0c49ba6039ee0baa2856e69e70f3a824",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "shoppersstop46@iob",
+    "merchant_name": "KFC",
+    "qr_hash": "8191bd63120fa335762d2e8db525330b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "zomato996@ybl",
+    "merchant_name": "Vivo",
+    "qr_hash": "575f1eabb4bc16864d65d77c0588ef26",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "shoppersstop@okaxis",
+    "merchant_name": "Starbucks",
+    "qr_hash": "df2888ee52076f3235cd334c0b3db407",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's379@pnb",
+    "merchant_name": "PhonePe",
+    "qr_hash": "fe245ef8d89076300e8f5b3d310fd87a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack.activate@cnrb",
+    "merchant_name": "Scam KFC Support",
+    "qr_hash": "a93cc8874577090174f3cfc6120b0e4d",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "dunzo@okaxis",
+    "merchant_name": "Starbucks",
+    "qr_hash": "75ea1c25ffe31304eb3eb6756fd26dd3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@okkotak",
+    "merchant_name": "Swiggy",
+    "qr_hash": "f86be56ab8238c35448ce42097e3e2b6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo@boi",
+    "merchant_name": "Zomato",
+    "qr_hash": "b304fa2dfa487b8dcfe4dc91c8905c4a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "realme333@okhdfcbank",
+    "merchant_name": "PhonePe",
+    "qr_hash": "53825c960dc6496649a355947ba1e194",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay442@oksbi",
+    "merchant_name": "Puma",
+    "qr_hash": "830abb4b0d1d5241816c2e43545f9fd1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa@axl",
+    "merchant_name": "Grofers",
+    "qr_hash": "5e00658065e089e821a3077f20d53c8d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bonus_croma@cnrb",
+    "merchant_name": "Scam Lenskart",
+    "qr_hash": "1b910a6b31d394f539a3279e5530a33c",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "applestore935@apl",
+    "merchant_name": "More Supermarket",
+    "qr_hash": "ca0fbe14597f0b0805aade4cce45487d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nike312@paytm",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "736f6b6b0a1763658cc2be7fd002fc38",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip138@cnrb",
+    "merchant_name": "MakeMyTrip",
+    "qr_hash": "89c48ac577826afd044487abc888a7e2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo@fbl",
+    "merchant_name": "Croma",
+    "qr_hash": "b71815a0dad35d5857e4223bf52d2aa9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany@okkotak",
+    "merchant_name": "Domino's",
+    "qr_hash": "d3a23dab29f8fb1e13b0c80480fa60b1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "woodland916@paytm",
+    "merchant_name": "Myntra",
+    "qr_hash": "d851c8a1e5f6ec22715c20d1804c7366",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo812@apl",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "6e6068b0af5d799f3c56b4a80e94457c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl@paytm",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "f02ab15df207ed154cd5f729bf5bfab5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "dunzo211@iob",
+    "merchant_name": "Puma",
+    "qr_hash": "5ea17016a95ad4179a7a0d4873ce85df",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks@ibl",
+    "merchant_name": "Domino's",
+    "qr_hash": "de0e68443f8fd047460fb6bdb1b9c671",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nike@okicici",
+    "merchant_name": "Fastrack",
+    "qr_hash": "4db631162c766470a0f56f916d64a2b3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers841@ibl",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "7e4bd1d9642556f5b6fa685b3ecfef7a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut@axl",
+    "merchant_name": "BigBasket",
+    "qr_hash": "f7acaae042681d1b3027c5ac1241423d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital@okaxis",
+    "merchant_name": "Puma",
+    "qr_hash": "197e6908eb8b958cb48d94c929f19633",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra@okhdfcbank",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "7028180f648d99cc7ce76bc6f8a2fdcb",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "mcdonald's310@okhdfcbank",
+    "merchant_name": "Apple Store",
+    "qr_hash": "37a9c8d4a071e6432efbda6b6cd74f94",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bigbasket@apl",
+    "merchant_name": "JBL",
+    "qr_hash": "05a34e6fafc3aab51f6a2c3d2a43d03f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@okaxis",
+    "merchant_name": "Croma",
+    "qr_hash": "6c0bb058f42097f4645c086aad80207a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@ibl",
+    "merchant_name": "Amazon",
+    "qr_hash": "d53e45cc8eb291b4a1033fd916545e81",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "titan@okaxis",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "6ae4885487d469029610ec9e38d3d2a6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital799@okicici",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "d39749d321e2480c1d66653388c7044e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "salarydomino's@apl",
+    "merchant_name": "Scam Zomato",
+    "qr_hash": "20bc457ae80780098beb6dc13b53f906",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "bonus_swiggy@upi",
+    "merchant_name": "Fake Nykaa Support",
+    "qr_hash": "d028f500c05eb2c20e4db6eb7480b8a4",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "flipkart@okhdfcbank",
+    "merchant_name": "BigBasket",
+    "qr_hash": "9a02780e274d860e94732473e5a6165f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "offer_tanishq@oksbi",
+    "merchant_name": "Fake Google Pay Support",
+    "qr_hash": "47a2a8fd733546cd88d5f53c022764d2",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "applestore@oksbi",
+    "merchant_name": "Croma",
+    "qr_hash": "9e75a6732fed791a6ff4a1d8467b6b4b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon@okicici",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "9cb5e30f81773863a104e3b831a6d4b8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@cnrb",
+    "merchant_name": "Amazon",
+    "qr_hash": "2242e8be442262bc3d41169e390126ec",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "confirm.paytm@okaxis",
+    "merchant_name": "Scam Zomato",
+    "qr_hash": "b0885f9f9c78a6372aa99b716509373c",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "decathlon@okhdfcbank",
+    "merchant_name": "KFC",
+    "qr_hash": "d24880f0a60a7b9b548bb9b579114396",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "dunzo@apl",
+    "merchant_name": "Nykaa",
+    "qr_hash": "0038557975592f7347e16b561d9a0b7b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack@okkotak",
+    "merchant_name": "Flipkart",
+    "qr_hash": "24eef5ff9eabd234719662952a7a64b4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "swiggy520@fbl",
+    "merchant_name": "MakeMyTrip",
+    "qr_hash": "045b79cf161d0b5976e413d9ff894f00",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay@upi",
+    "merchant_name": "Bata",
+    "qr_hash": "29017ea5277b41fcd64d2fb267dd3e9e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "activatebigbasket@cnrb",
+    "merchant_name": "Fake Google Pay Support",
+    "qr_hash": "98c589db88062e37342e9e70a528a596",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "kfc897@apl",
+    "merchant_name": "McDonald's",
+    "qr_hash": "f11cc22c12a0d1412dfc67da854950ec",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip130@okkotak",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "799b00bf6157c070880f6880e7ba5ab8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "decathlon376@pnb",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "273f351a4be485b8959777bf4ae04de9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow189@ybl",
+    "merchant_name": "McDonald's",
+    "qr_hash": "7c57cff3c7af6b9b62554b830f23916b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat622@paytm",
+    "merchant_name": "Zomato",
+    "qr_hash": "876a20b8ee0efc4127943b7727500cad",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "shoppersstop@ibl",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "22771d0b99796f1b805c3c84ea475b6f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "shoppersstop@okkotak",
+    "merchant_name": "MakeMyTrip",
+    "qr_hash": "f7e40b18902edc0f6df66e8780d258cc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "zomatogift@fbl",
+    "merchant_name": "Fraudulent PhonePe",
+    "qr_hash": "39fde83ec42feced40ff2dca7069c5a2",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "lenskart844@boi",
+    "merchant_name": "Titan",
+    "qr_hash": "ebe6698a9195a4203c7ea62d1f5ad305",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrackhr@ybl",
+    "merchant_name": "Scam Lenskart",
+    "qr_hash": "042050cb2c739a9428d4d48f5e87018f",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "googlepay@okaxis",
+    "merchant_name": "BigBasket",
+    "qr_hash": "33e0ae6c27552a51d41680fa635906cb",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat@oksbi",
+    "merchant_name": "Realme",
+    "qr_hash": "e3a34b351a37fc78380c29b8a3dee30e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ajio_confirm@okicici",
+    "merchant_name": "Fake Croma",
+    "qr_hash": "4cd89b3a0820981785fdd14479cf0c26",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "casio@ybl",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "05f8842e1d68583e5c2e01727eb8e767",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok@axl",
+    "merchant_name": "Dunzo",
+    "qr_hash": "db90ee127c64b412360e8aef08aca0d0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa986@okaxis",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "9740dad5433fe40c41859fa77fe906e4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers@okhdfcbank",
+    "merchant_name": "BigBasket",
+    "qr_hash": "5ccb58705ca617e4ad956c56bb0997f3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart@ybl",
+    "merchant_name": "INOX",
+    "qr_hash": "b1678e06b1875477d30813eca8b3d014",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "xiaomi79@pnb",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "dd7f811704822c7ad10a0239c6520718",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat.prize@upi",
+    "merchant_name": "Scam CCD",
+    "qr_hash": "503e88db65823ffcae62a6baf5b68385",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "myntra_discount@ibl",
+    "merchant_name": "Fake Pizza Hut",
+    "qr_hash": "52f1025c4438e762d2f6e501383b6940",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "shoppersstop@okaxis",
+    "merchant_name": "Bata",
+    "qr_hash": "2087c0a672b1c3e9d87d7c7316599bd4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "tanishq@ibl",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "533bc9a883dd03e278d7e526b00fc4c8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "realme@apl",
+    "merchant_name": "Urban Company",
+    "qr_hash": "a0cc7ffa30c553ae08272c9a2bc938ca",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "flipkart@pnb",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "a7c61d3efbc526e4a874c198f1d4d03f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl989@ybl",
+    "merchant_name": "Woodland",
+    "qr_hash": "28e58bf79a7938ee8b1dd734ed577934",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut@boi",
+    "merchant_name": "Spencer's",
+    "qr_hash": "c138384431bc9b0de2b0a5304de3cbac",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack@boi",
+    "merchant_name": "BigBasket",
+    "qr_hash": "2020fa7f7e7bd190f356b6c1b67c3d44",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pvrcinemas@okkotak",
+    "merchant_name": "Oppo",
+    "qr_hash": "bb91b09c57e86a428dd4050267a88165",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola977@okhdfcbank",
+    "merchant_name": "Ajio",
+    "qr_hash": "7f8a5013d597298d4ff1181f32dcfa07",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "uber@cnrb",
+    "merchant_name": "MakeMyTrip",
+    "qr_hash": "72a07463d57d9ba77f791f54df319643",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@apl",
+    "merchant_name": "Swiggy",
+    "qr_hash": "d3fce53bed3bb9a082aa792b22a5c666",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "puma61@apl",
+    "merchant_name": "Amazon",
+    "qr_hash": "c68a9af3bf787389bfd5121edcb1f5e4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "decathlon@ybl",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "5df75c10b3c95005b5f638eb258fa561",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo@paytm",
+    "merchant_name": "More Supermarket",
+    "qr_hash": "522c558fb8f4d6e74e3b98b0a08f34d4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bigbasket@pnb",
+    "merchant_name": "JBL",
+    "qr_hash": "ff4375fb8a574d299eb98a0d9fad564f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "uber_winner@okaxis",
+    "merchant_name": "Scam KFC Support",
+    "qr_hash": "20bb1bc8ef5b930a5f21c16b6a065645",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "vijaysales_free@ybl",
+    "merchant_name": "Fake Croma",
+    "qr_hash": "4a463764cb56f818b0e0648152244592",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "reliancedigital@ibl",
+    "merchant_name": "Titan",
+    "qr_hash": "8f83c19e548b8bc14ddcf8adea2c72ea",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata643@okhdfcbank",
+    "merchant_name": "Oppo",
+    "qr_hash": "c9f999af8e45d195955e22791ee0b61b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "samsungstore574@ibl",
+    "merchant_name": "Adidas",
+    "qr_hash": "a5ac1b58c6da4713b5432b732fbe05b2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital@upi",
+    "merchant_name": "Tanishq",
+    "qr_hash": "8367384bc5ed5831e938f6c0b79adb1c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@cnrb",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "6c1a99bc1987dc629a9d265287decb03",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma720@upi",
+    "merchant_name": "INOX",
+    "qr_hash": "67ea5d17784fd66fb701c018f3aa6fa2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "swiggy881@ybl",
+    "merchant_name": "INOX",
+    "qr_hash": "bb1cf7553eff0a13f6d7eb301610f71e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "moresupermarket347@cnrb",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "e89cfce47794c0ce875908a1b96affb3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl189@ibl",
+    "merchant_name": "Vivo",
+    "qr_hash": "36f4f7618efab0a97b774855c7e19694",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut@okhdfcbank",
+    "merchant_name": "Woodland",
+    "qr_hash": "5cf4441d0358ab5e53d052156bfb572d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut@okicici",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "6c3f9c209a5f4e14a00f87efaac474a3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urbancompany@ybl",
+    "merchant_name": "Urban Company",
+    "qr_hash": "8fdda859cab5d9f35996fb088e1b6303",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's@apl",
+    "merchant_name": "Domino's",
+    "qr_hash": "a4a67f275a2b620732db65d0e313a818",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "updateoppo@paytm",
+    "merchant_name": "Phishing Flipkart",
+    "qr_hash": "245c4c519fa6ff950e6165d65565f1dd",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "ajio.lottery@boi",
+    "merchant_name": "Scam MakeMyTrip",
+    "qr_hash": "78e5370ec11fcc759ad837608a2c61c6",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "lenskart@pnb",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "b87e07c54366a84d237720b6bcaaa0a2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "decathlon@iob",
+    "merchant_name": "Urban Company",
+    "qr_hash": "bc805e9540232cb90b08b495668f0f90",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok@okicici",
+    "merchant_name": "Nykaa",
+    "qr_hash": "0a0c3aad4074d5ea56bae1d29e978b28",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle@cnrb",
+    "merchant_name": "Paytm",
+    "qr_hash": "31b165dd6e526b2eb6dd69241bc1792a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "refundfastrack@upi",
+    "merchant_name": "Scam BigBasket",
+    "qr_hash": "bfb5db5675a66293835927971f62a57f",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "mcdonald's@okkotak",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "076ebb2b4aba5df1d1b1517b45acba8d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "swiggy@okicici",
+    "merchant_name": "Urban Company",
+    "qr_hash": "b2d39cb7b471e3fb43729e0b1c934a0a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon@fbl",
+    "merchant_name": "Ajio",
+    "qr_hash": "04bb166f9b559e174fcefc1a2d326547",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo@okhdfcbank",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "bf2362353011f29c463e4cbc2e69d51d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl20@ybl",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "86dd80d288660991abda36f1c61de106",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat_gift@ibl",
+    "merchant_name": "Fraudulent Reliance",
+    "qr_hash": "d814f2ddf00c2bea84aa52ccb5762ca5",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "nykaa@iob",
+    "merchant_name": "Domino's",
+    "qr_hash": "494cb45cd922ecc57ef63e13faef9d27",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "tanishq@fbl",
+    "merchant_name": "INOX",
+    "qr_hash": "c42fb52b04f26a65e4450089c1d05d15",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "woodland408@okicici",
+    "merchant_name": "Urban Company",
+    "qr_hash": "9a6acbfdcc9846d580d3e68fb42812c3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay@paytm",
+    "merchant_name": "Fastrack",
+    "qr_hash": "a9cc9341f0aa4a304db13440cbc4669c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart867@fbl",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "399eb996ff95e19229aa2c274b4ad860",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "winnertitan@axl",
+    "merchant_name": "Fake Google Pay Support",
+    "qr_hash": "800963f69845bfafabb0e3259062ed62",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "adidas@paytm",
+    "merchant_name": "Nykaa",
+    "qr_hash": "a755bcfc78e4b504d3c3c4b67e207c55",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle.security@okaxis",
+    "merchant_name": "Fraudulent PhonePe",
+    "qr_hash": "c7cfb8186d4f4824dc501c3f87acaa46",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "jbl@cnrb",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "9c0352e5f430886846feb2b7c9fdc3ec",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe.prize@upi",
+    "merchant_name": "Scam Vijay Sales",
+    "qr_hash": "18f95202ea310ba544017a6cc65ae023",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "makemytrip@paytm",
+    "merchant_name": "Nykaa",
+    "qr_hash": "f4f2a129146ee4f10eaaa1a3b72c702d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola@pnb",
+    "merchant_name": "INOX",
+    "qr_hash": "e2d3d2d94ae2ad1b7cf1c4c222eee5c8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack@oksbi",
+    "merchant_name": "Casio",
+    "qr_hash": "3938679a20b239c65002f6fd3ea11a4f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip@okhdfcbank",
+    "merchant_name": "Dunzo",
+    "qr_hash": "d1cdd093d393cdb8f6ae114937635158",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "offertanishq@iob",
+    "merchant_name": "Scam Vijay Sales",
+    "qr_hash": "90d063612ca366b30d0ca19b6a9201c9",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "fossil@iob",
+    "merchant_name": "PhonePe",
+    "qr_hash": "435bc3c53a2696f2910087e068fb638c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@okicici",
+    "merchant_name": "Bata",
+    "qr_hash": "68225b6998c9177e696eb4d07d1e3d73",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "dunzo115@paytm",
+    "merchant_name": "Paytm",
+    "qr_hash": "eb5cb77d7aef149b8e626f5f2b7db647",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore@ybl",
+    "merchant_name": "Google Pay",
+    "qr_hash": "4de7926f2f0514f083e8832fec825966",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reward.fastrack@upi",
+    "merchant_name": "Phishing Ola",
+    "qr_hash": "e298c185a9f271bc2015ee7abacdc725",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "pumafree@upi",
+    "merchant_name": "Scam CCD",
+    "qr_hash": "68e57a31d15e8dfb10426a0b2a01b79a",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "spencer's444@boi",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "49be15b2d0716319df095322e5a7398e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola@iob",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "8b309cfb0b3e4945f46955420fc38c0c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl@iob",
+    "merchant_name": "Bata",
+    "qr_hash": "cfde32b4b3a2fe4bfd0c22cc20db5ed3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "urgentpuma@iob",
+    "merchant_name": "Fake Uber HR",
+    "qr_hash": "0bd33cbab64df5d74423d2a1379ea296",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "samsungstore@ibl",
+    "merchant_name": "Fastrack",
+    "qr_hash": "664bf5c064a3f3212626b26da4a6eb76",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola@fbl",
+    "merchant_name": "Lenskart",
+    "qr_hash": "fa01e1822fb7a1fb3ac636757aefc17e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nike@fbl",
+    "merchant_name": "Titan",
+    "qr_hash": "8080a4d1bbcae0e9f792baed30549340",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cafecoffeeday@paytm",
+    "merchant_name": "Myntra",
+    "qr_hash": "f4fd83037095f97afa5c7471305c7e6a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma@iob",
+    "merchant_name": "Shoppers Stop",
+    "qr_hash": "6b91b501c0b7cffc34c90d86a3b09143",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc552@ibl",
+    "merchant_name": "Grofers",
+    "qr_hash": "29fec4a54a48354944e0ca8991287c79",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo872@ybl",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "4c83c8ca74e9cc6d74414f358c498491",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack@ibl",
+    "merchant_name": "Ajio",
+    "qr_hash": "d56fc6ae8a558965f2427563d77f8844",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "adidasfree@okaxis",
+    "merchant_name": "Fraudulent Domino's",
+    "qr_hash": "27b8432c31bfbba7bae01ed64cb05911",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "amazon@paytm",
+    "merchant_name": "Reebok",
+    "qr_hash": "d02891af43babc58f12e219d47555099",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "zomato@ybl",
+    "merchant_name": "Reebok",
+    "qr_hash": "3f36bb731e8a33eb0abcbd7bf61084fb",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "casio472@cnrb",
+    "merchant_name": "Domino's",
+    "qr_hash": "ba4417f53830e1b08bf3e719ba27510d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo@okaxis",
+    "merchant_name": "Titan",
+    "qr_hash": "136ec3c21496fe1019d0d075756d0a22",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "mcdonald's@cnrb",
+    "merchant_name": "Domino's",
+    "qr_hash": "ec3c3f1cc4a465c42f0b9ec228c773d1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "samsungstore@cnrb",
+    "merchant_name": "Bata",
+    "qr_hash": "df83ce0e6bd05ad6a89f5864951a5205",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma@oksbi",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "e64bb1506820cab3264766a24cb46328",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "inox280@fbl",
+    "merchant_name": "Adidas",
+    "qr_hash": "061aaa863dde4c990e72948a0659e7a6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc455@axl",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "0de32dbd6a247916d73797759c4d866e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart@ybl",
+    "merchant_name": "Tanishq",
+    "qr_hash": "25a2d098631eab1e2480350ac8c19bb6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "flipkart@okicici",
+    "merchant_name": "Oppo",
+    "qr_hash": "3846571f81da6dd4f9ff14fc86d3b51e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "deal.tanishq@ibl",
+    "merchant_name": "Phishing More Market",
+    "qr_hash": "dd1ad4c1ffd2add75a54ef7127a48e42",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "mcdonald's84@okkotak",
+    "merchant_name": "PhonePe",
+    "qr_hash": "6640d45a2ae00d473fd02aaf31a49590",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's@cnrb",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "99fbed0a49b0de7a34c24460993e4e76",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "tanishq@okaxis",
+    "merchant_name": "Bata",
+    "qr_hash": "bf202c0f23047cfc15ca5925a5ffda60",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons819@axl",
+    "merchant_name": "Croma",
+    "qr_hash": "720ca7a7f91aaf63eaa4843663fc1d03",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital@okicici",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "35df9fe109db36a728d5edfe0de419d0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack520@pnb",
+    "merchant_name": "INOX",
+    "qr_hash": "ffb3edefa68ff2d61f2ed215f3d94b9e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers.refund@fbl",
+    "merchant_name": "Fake Nykaa Support",
+    "qr_hash": "c4e24f162fac357435dfe1f938ff589b",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "tanishq362@fbl",
+    "merchant_name": "Tanishq",
+    "qr_hash": "9eac1616b6befb5a1c636a3d6e345788",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cafecoffeeday@okaxis",
+    "merchant_name": "Dunzo",
+    "qr_hash": "30c302ffc21e959924c0ed655f22e1e1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "tanishq.bonus@oksbi",
+    "merchant_name": "Fake Tanishq Support",
+    "qr_hash": "88e6db457e35139ea83bba7ab06fc459",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "puma@oksbi",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "46c1b796f3b67eca4f66dc8c72249ff6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's@ibl",
+    "merchant_name": "BigBasket",
+    "qr_hash": "16a8464033bd15f9ccf15daa4d6f4f5e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma132@okicici",
+    "merchant_name": "Fastrack",
+    "qr_hash": "e0205670125d67646613e1cc850a9ccd",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "puma@paytm",
+    "merchant_name": "Cafe Coffee Day",
+    "qr_hash": "83880ac9dcd8546fad92dcbdd82ba2ff",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo@iob",
+    "merchant_name": "Swiggy",
+    "qr_hash": "c600223e92811256b1c2b9a9bacb997b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola@iob",
+    "merchant_name": "Myntra",
+    "qr_hash": "fded03ccbc359d9b6bd5a958c098bd5b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "puma@paytm",
+    "merchant_name": "Domino's",
+    "qr_hash": "c04500c019dd5eaa77085deac2ca71f7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra585@paytm",
+    "merchant_name": "Flipkart",
+    "qr_hash": "1a0b8b3537301197000fc95101319517",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "activate.flipkart@okkotak",
+    "merchant_name": "Scam KFC Support",
+    "qr_hash": "746182c16594fd4b5aed33ae92c65720",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "pvrcinemas643@axl",
+    "merchant_name": "Ajio",
+    "qr_hash": "c3d06d4d7f1ad5f7fac30937909f41b5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay.confirm@axl",
+    "merchant_name": "Fake Urban Company",
+    "qr_hash": "1a8e181533aa4ca4528813fe67abc924",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "fastrack@iob",
+    "merchant_name": "Puma",
+    "qr_hash": "c7b12d9d533474f0f53b0fdabce1381e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "rewarduber@okkotak",
+    "merchant_name": "Phishing Ola",
+    "qr_hash": "84358826e71b968422d26e8d52430252",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "amazon29@okaxis",
+    "merchant_name": "Fossil",
+    "qr_hash": "b4994e6f290b6cbe1a69f70de5e8a0b7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra982@upi",
+    "merchant_name": "Paytm",
+    "qr_hash": "731b2f5d07824c1279331ec5ebcbe959",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lottery.vijaysales@iob",
+    "merchant_name": "Fraudulent PhonePe",
+    "qr_hash": "cba94aa05e5790755d0125520060c67c",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "security.zomato@okicici",
+    "merchant_name": "Phishing Ola",
+    "qr_hash": "6e6148d38a1cce3f3552b62d82afa06e",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "zomato@okhdfcbank",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "c7c6b6f2867a9d1638a6eace980fd940",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon@okkotak",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "770b2b23a53e751398a5042aef38218b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "samsungstore@okicici",
+    "merchant_name": "Starbucks",
+    "qr_hash": "7118d305d3031c4bb61851fcb26710f7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "uber@pnb",
+    "merchant_name": "Vivo",
+    "qr_hash": "eabb85a1e004de1a0372ce1d352c5cde",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "paytm@okaxis",
+    "merchant_name": "INOX",
+    "qr_hash": "15ac842910dcda71a78155b47baa34ef",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "puma295@fbl",
+    "merchant_name": "Croma",
+    "qr_hash": "49066a19e19700139aebed279f7c9264",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers@iob",
+    "merchant_name": "Grofers",
+    "qr_hash": "da9af302edbb6ba8d1aa86ea7c8b2dcc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vijaysales@oksbi",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "bc99f21e4c8546f4fffd78b3cad564a3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe@paytm",
+    "merchant_name": "Tanishq",
+    "qr_hash": "09a304ad2aadd34bba0fa15d9ae8fdd1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "giftfossil@okicici",
+    "merchant_name": "Fake Starbucks HR",
+    "qr_hash": "c37af3730a4fb7169acfa2838003a60d",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "shoppersstop500@cnrb",
+    "merchant_name": "Ajio",
+    "qr_hash": "edecda4983c70bd8d04488c4e7cfa190",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ajio@iob",
+    "merchant_name": "Grofers",
+    "qr_hash": "2c21db5225127949124b96e210e20a94",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip96@paytm",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "209dbfa61a83d1f008e14f257fedd860",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack@okkotak",
+    "merchant_name": "Grofers",
+    "qr_hash": "2ca4a5923a30a9a6a55985d8aa43c5a2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "kfc@upi",
+    "merchant_name": "Realme",
+    "qr_hash": "ac37e4a11f322839eb3d3561a1af5893",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack@ybl",
+    "merchant_name": "Puma",
+    "qr_hash": "4527766eb0ef00edea53669297a358ef",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fossil27@okicici",
+    "merchant_name": "Woodland",
+    "qr_hash": "147984fc8907d019da515dfdbb44965f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart78@iob",
+    "merchant_name": "Domino's",
+    "qr_hash": "0ac24049662df65ae26fe845e789a495",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo661@iob",
+    "merchant_name": "Ajio",
+    "qr_hash": "2a4e918dd26f6427f490f54a79e80b4b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok928@upi",
+    "merchant_name": "Tanishq",
+    "qr_hash": "bdeb08bba15280a72b6a499298b4bd43",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack@iob",
+    "merchant_name": "Flipkart",
+    "qr_hash": "4c1479533fdb36c7fba5110adcde37b5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "amazon@okhdfcbank",
+    "merchant_name": "Nykaa",
+    "qr_hash": "21ce4b305e6f9c186bb2800a0fa91222",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "xiaomiactivate@okaxis",
+    "merchant_name": "Scam CCD",
+    "qr_hash": "641a3a16679f9e3be448bc43b3ffe0d4",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "paytm@pnb",
+    "merchant_name": "Uber",
+    "qr_hash": "da62afa6a72bc0d69c3bd6b12be7a891",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons@okhdfcbank",
+    "merchant_name": "Reebok",
+    "qr_hash": "f9a4b8710b3a60317cc4ccee1353f471",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe@okaxis",
+    "merchant_name": "MakeMyTrip",
+    "qr_hash": "754137e5997520229a041bc37f51ddd2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa@okhdfcbank",
+    "merchant_name": "Ola",
+    "qr_hash": "ed7a002876de93b32edbba5eefc84484",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@upi",
+    "merchant_name": "Casio",
+    "qr_hash": "b0eedef65cca19226f7f0824b729a441",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola@oksbi",
+    "merchant_name": "Zomato",
+    "qr_hash": "86fad42c3d7da0158d45f58483b9bbe7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@cnrb",
+    "merchant_name": "PhonePe",
+    "qr_hash": "691332ac361ef11dbe495d708acd2f16",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat@ibl",
+    "merchant_name": "Paytm",
+    "qr_hash": "039e965f4c4b008f098192d50fc6e631",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "spencer's@okkotak",
+    "merchant_name": "MakeMyTrip",
+    "qr_hash": "b043e0a5139890fa24bbb1a05ef9e792",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@pnb",
+    "merchant_name": "Domino's",
+    "qr_hash": "7aac97a007d78eef64716f20d04b95de",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat@ybl",
+    "merchant_name": "Bata",
+    "qr_hash": "1ccd2ed82c67d199f5bd4209495a7bcb",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok921@fbl",
+    "merchant_name": "Grofers",
+    "qr_hash": "8e69e58303b84df40274464dc2b6942b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip@okkotak",
+    "merchant_name": "Ajio",
+    "qr_hash": "cd18967e6cf85bd94ca81273ff83f72b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "salaryxiaomi@ybl",
+    "merchant_name": "Phishing Flipkart",
+    "qr_hash": "2bc10abbd419a21fcfcb11ac17c93feb",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "shoppersstopsalary@okicici",
+    "merchant_name": "Fake Amazon HR",
+    "qr_hash": "30942363d9dba037403cea2a6c0c3278",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "ajioprize@paytm",
+    "merchant_name": "Fake Google Pay Support",
+    "qr_hash": "a35484b1887fd1be8bbe4174663213cb",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "discount_shoppersstop@apl",
+    "merchant_name": "Fake BookMyShow Support",
+    "qr_hash": "1b6c8c8c8c853236c184691dbd25682c",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "inox@boi",
+    "merchant_name": "Boat",
+    "qr_hash": "c41f7c55a7f854161ba183e247bd638a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay@iob",
+    "merchant_name": "Amazon",
+    "qr_hash": "67dfaab9f21d8de54dfb7dd260695825",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "xiaomi@boi",
+    "merchant_name": "JBL",
+    "qr_hash": "a584189e97263ce43eaf67c41bc28436",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok@oksbi",
+    "merchant_name": "Ajio",
+    "qr_hash": "c4a7004f950164fe81caf4a5e4ed3a8f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "flipkart@okhdfcbank",
+    "merchant_name": "Grofers",
+    "qr_hash": "98f7a9c48181f42e0ab41cad50f309ac",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore50@fbl",
+    "merchant_name": "PhonePe",
+    "qr_hash": "756824f6ace07581f2ea4fc53186a824",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "xiaomi@pnb",
+    "merchant_name": "Boat",
+    "qr_hash": "8603adc5f78e9e6334b8e5f5070cd577",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vijaysalesbonus@cnrb",
+    "merchant_name": "Phishing Dunzo",
+    "qr_hash": "d4002a1f110e243048cfe3cb18f349fe",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "reliancedigital@okhdfcbank",
+    "merchant_name": "Swiggy",
+    "qr_hash": "2f362ab6c8643dacbb25176ffe7316ad",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ajio@apl",
+    "merchant_name": "Uber",
+    "qr_hash": "28ec59125a835d35c1d3b8a04e6694cf",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "fastrack106@fbl",
+    "merchant_name": "Reebok",
+    "qr_hash": "ad080f78f87feb988ba5215bd4e4d1f4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@iob",
+    "merchant_name": "Domino's",
+    "qr_hash": "5efe5b4aac3db4bac35532a9e9bab82b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok588@okkotak",
+    "merchant_name": "BigBasket",
+    "qr_hash": "e0d7f48e8eb18395e49235d318930f3a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reliancedigital@upi",
+    "merchant_name": "Domino's",
+    "qr_hash": "2bd3e5be089258bbd7fa2139403f7771",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle349@upi",
+    "merchant_name": "Urban Company",
+    "qr_hash": "685dc400200d20fce504408b2d4a8635",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vijaysales_reward@fbl",
+    "merchant_name": "Scam Lifestyle",
+    "qr_hash": "66440cd89276fc246ac893ca565740b3",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "titan128@okkotak",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "39eaf9a199ee3f057874eb17f50f5efc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "moresupermarket@okhdfcbank",
+    "merchant_name": "Puma",
+    "qr_hash": "b518e380125e931b0f3ff067751e2adc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "flipkart@iob",
+    "merchant_name": "OnePlus",
+    "qr_hash": "f45dd42a0fd812d9586355a7bb7c4346",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "verification.xiaomi@okkotak",
+    "merchant_name": "Fake Myntra",
+    "qr_hash": "97255b0261e5132b3bf72f4b0597e5c6",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "boat@okkotak",
+    "merchant_name": "Swiggy",
+    "qr_hash": "d02ee597ded88ff7d1065633c6bf848f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut380@okhdfcbank",
+    "merchant_name": "Tanishq",
+    "qr_hash": "367c9f541b137c6a26e7a80d43b7646f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nykaa@iob",
+    "merchant_name": "Vivo",
+    "qr_hash": "fe95a2eaae760f3b9999138079ce9cbe",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "realme@boi",
+    "merchant_name": "Reliance Digital",
+    "qr_hash": "971a4baaff392e11180c09d622433cd1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks@ibl",
+    "merchant_name": "OnePlus",
+    "qr_hash": "de5be4f93a8d42cedd845536ddd75810",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "woodland@ybl",
+    "merchant_name": "Flipkart",
+    "qr_hash": "8dcf8217c2577774be313bb11b04b115",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "paytm@boi",
+    "merchant_name": "BigBasket",
+    "qr_hash": "4639c92e52afa4b46e35e291bb54f1a9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "cafecoffeeday@paytm",
+    "merchant_name": "Ola",
+    "qr_hash": "72d2d46cc2c982dcb6fe3b87646a299d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "nike@boi",
+    "merchant_name": "Myntra",
+    "qr_hash": "04bbc360fd6ceeb69e43c84331e2cc19",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks@cnrb",
+    "merchant_name": "Pizza Hut",
+    "qr_hash": "a47d7c7b2c41cf76555c0c8a19054510",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pizzahut@okaxis",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "3d5e12ed29b7e312b984ebe379902ca2",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons@cnrb",
+    "merchant_name": "Vivo",
+    "qr_hash": "94433f84fa7be0175788f8178bd329fe",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bigbasket@apl",
+    "merchant_name": "Swiggy",
+    "qr_hash": "0db731416dd88eda4b2c498f1b3162bf",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma489@iob",
+    "merchant_name": "Woodland",
+    "qr_hash": "9156d1b7470e4717a1ab042dd590d0fc",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "mcdonald's@upi",
+    "merchant_name": "Reebok",
+    "qr_hash": "a7512300f37d80658b0a8bb72cd482f9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks@pnb",
+    "merchant_name": "Lenskart",
+    "qr_hash": "b83ea64854250636e4105865461f8ea9",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons@apl",
+    "merchant_name": "JBL",
+    "qr_hash": "cfb09d69c2e7609b324829be142489a6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore@okicici",
+    "merchant_name": "Dunzo",
+    "qr_hash": "ba309aaf0996af2a8cc8e58bda988ef4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ola@upi",
+    "merchant_name": "Boat",
+    "qr_hash": "ebaa1a665030d4ef9e3a0d1b8a9d7da7",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "zomato@paytm",
+    "merchant_name": "Woodland",
+    "qr_hash": "5b57e1c08bfbdcf731df068eee0015bd",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "croma@apl",
+    "merchant_name": "Paytm",
+    "qr_hash": "ec6b8dd98792410205866e4b4454f3e8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "myntra@upi",
+    "merchant_name": "Nike",
+    "qr_hash": "0940f978a39959f25a625a67947521b0",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "salary_woodland@apl",
+    "merchant_name": "Fake Shoppers Stop",
+    "qr_hash": "58f5422c7229918beede76ccbacdfdcb",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "adidas@oksbi",
+    "merchant_name": "Urban Company",
+    "qr_hash": "5f0c0c31c3a344118a8892669e7091a3",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ajio@apl",
+    "merchant_name": "Croma",
+    "qr_hash": "623ca08942cc6bb33ce4526be5581189",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers587@cnrb",
+    "merchant_name": "Ola",
+    "qr_hash": "e7198b46563a101da8fe2778d0bf65e4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle316@upi",
+    "merchant_name": "MakeMyTrip",
+    "qr_hash": "e420e8053c130771c6bb7ff51ef93ec6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "starbucks@upi",
+    "merchant_name": "Zomato",
+    "qr_hash": "870e8c6f5f08da7589a9c4da65eeae8c",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "boat_verification@ibl",
+    "merchant_name": "Fraudulent Reliance",
+    "qr_hash": "14e7ec8912b951af57e9c7052fb6407a",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "adidas@fbl",
+    "merchant_name": "KFC",
+    "qr_hash": "3a886c0b14abbeffaf665975b75b442b",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "swiggy@cnrb",
+    "merchant_name": "PhonePe",
+    "qr_hash": "44c1256c05c58565ea6466d24a9a72df",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bata@okkotak",
+    "merchant_name": "Fossil",
+    "qr_hash": "2aea5f7987123f5c2ae28d4935c30a74",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl@iob",
+    "merchant_name": "Fastrack",
+    "qr_hash": "bd76e28b88f9ac71b6ceb5214b75c75f",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bigbasketwinner@iob",
+    "merchant_name": "Fraudulent Domino's",
+    "qr_hash": "9350d8e58abfb90de6e3d803a9cf0971",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "amazon@ibl",
+    "merchant_name": "Bata",
+    "qr_hash": "4ee8f48fb2c6af6c7d6aea160ea7f507",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "reebok@pnb",
+    "merchant_name": "Paytm",
+    "qr_hash": "ab9d26fbdd62e5abf9072ca74c59b5b4",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "refund_decathlon@okaxis",
+    "merchant_name": "Fake Pizza Hut",
+    "qr_hash": "e6ef9e3d0ec7f6c9e2613e2b23743e11",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "phonepe@axl",
+    "merchant_name": "Realme",
+    "qr_hash": "bf3b38183805d7e51af85a3869e6e7a6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pvrcinemas577@paytm",
+    "merchant_name": "PhonePe",
+    "qr_hash": "be5e0f8920f75db58fc3ad19dd5459b1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle734@fbl",
+    "merchant_name": "Ola",
+    "qr_hash": "4ce4391442356c35790ff5a0f45706b5",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's@cnrb",
+    "merchant_name": "Ola",
+    "qr_hash": "0dad31c922052538e123fd4a9d487947",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "phonepe@boi",
+    "merchant_name": "Flipkart",
+    "qr_hash": "16e8b483d29cd5d59940112f454e88bb",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's@oksbi",
+    "merchant_name": "Pantaloons",
+    "qr_hash": "7c1a6f311e200cc9bc8271e32726b476",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "samsungstorefree@iob",
+    "merchant_name": "Fake Tanishq Support",
+    "qr_hash": "e7fb4c1d41b6984083bc20d31cb991e6",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "woodland@ybl",
+    "merchant_name": "Puma",
+    "qr_hash": "5800b98623dd50884cf29b8f1865262a",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "ajio@pnb",
+    "merchant_name": "BookMyShow",
+    "qr_hash": "e741376a28917e8f0c50fa2aab3882e8",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "oppo168@okaxis",
+    "merchant_name": "Casio",
+    "qr_hash": "277671e4d724e47291dd8f31a6fbfaae",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "applestore@fbl",
+    "merchant_name": "Swiggy",
+    "qr_hash": "659a610afa72cb7bf2edf4685e8c7560",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "makemytrip@cnrb",
+    "merchant_name": "Croma",
+    "qr_hash": "0ed7158ea312bb4037a35bc302869e60",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "bookmyshow@okaxis",
+    "merchant_name": "PVR Cinemas",
+    "qr_hash": "0b8f687aa86c1014ef9536085507dd72",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "grofers@okicici",
+    "merchant_name": "JBL",
+    "qr_hash": "adf586ad3a935a8bd1411ad056d768ef",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "pantaloons509@okkotak",
+    "merchant_name": "Lifestyle",
+    "qr_hash": "9cd8af801c9cf61b9d6661e26b5cf5c1",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "domino's@pnb",
+    "merchant_name": "Bata",
+    "qr_hash": "0eaa6560fc97e123a458cb3a83c79d86",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "vivo@fbl",
+    "merchant_name": "Apple Store",
+    "qr_hash": "204fbfa6d07e10012b8c9a4b3db43a3d",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lifestyle@ibl",
+    "merchant_name": "Flipkart",
+    "qr_hash": "25664cbd3f2966ed2ad0154590d5a4ad",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "casio@fbl",
+    "merchant_name": "Boat",
+    "qr_hash": "de6b60b3c0592c992b541f215a523a75",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "lenskart@boi",
+    "merchant_name": "Xiaomi",
+    "qr_hash": "e6c752247f76b4d39d4434cf6ee7c388",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "jbl553@iob",
+    "merchant_name": "Vijay Sales",
+    "qr_hash": "b9feaf53f5999b0f3c3a47cbc15b85e6",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "dunzo@oksbi",
+    "merchant_name": "Dunzo",
+    "qr_hash": "e859416801dcf30d067865576d16d48e",
+    "is_flagged": false
+  },
+  {
+    "upi_id": "googlepay.refund@ibl",
+    "merchant_name": "Scam BigBasket",
+    "qr_hash": "92c5038c037068ebd5b2d61615328032",
+    "is_flagged": true
+  },
+  {
+    "upi_id": "puma@ibl",
+    "merchant_name": "Samsung Store",
+    "qr_hash": "05a8362fb8bc08c4498a78be13847be3",
+    "is_flagged": false
+  }
+]

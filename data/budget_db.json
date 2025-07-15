@@ -1,0 +1,102 @@
+{
+  "user_1": {
+    "education": 400,
+    "entertainment": 1400,
+    "food": 1700,
+    "health": 700,
+    "shopping": 2500,
+    "transport": 1000,
+    "utilities": 2400,
+    "bills": 1900
+  },
+  "user_2": {
+    "education": 300,
+    "entertainment": 1200,
+    "food": 1300,
+    "health": 600,
+    "shopping": 3100,
+    "transport": 1100,
+    "utilities": 2200,
+    "bills": 1000
+  },
+  "user_3": {
+    "education": 400,
+    "entertainment": 1300,
+    "food": 1800,
+    "health": 400,
+    "shopping": 2800,
+    "transport": 1100,
+    "utilities": 2100,
+    "bills": 2000
+  },
+  "user_4": {
+    "education": 900,
+    "entertainment": 1500,
+    "food": 1500,
+    "health": 400,
+    "shopping": 3900,
+    "transport": 700,
+    "utilities": 2100,
+    "bills": 1300
+  },
+  "user_5": {
+    "education": 300,
+    "entertainment": 1100,
+    "food": 1800,
+    "health": 500,
+    "shopping": 3400,
+    "transport": 600,
+    "utilities": 2300,
+    "bills": 1900
+  },
+  "user_6": {
+    "education": 500,
+    "entertainment": 1200,
+    "food": 1400,
+    "health": 700,
+    "shopping": 2200,
+    "transport": 1000,
+    "utilities": 2000,
+    "bills": 1400
+  },
+  "user_7": {
+    "education": 700,
+    "entertainment": 800,
+    "food": 1300,
+    "health": 300,
+    "shopping": 3100,
+    "transport": 800,
+    "utilities": 2200,
+    "bills": 1100
+  },
+  "user_8": {
+    "education": 700,
+    "entertainment": 1400,
+    "food": 1600,
+    "health": 300,
+    "shopping": 3700,
+    "transport": 600,
+    "utilities": 1600,
+    "bills": 1500
+  },
+  "user_9": {
+    "education": 800,
+    "entertainment": 1400,
+    "food": 1900,
+    "health": 800,
+    "shopping": 3900,
+    "transport": 1000,
+    "utilities": 2400,
+    "bills": 1800
+  },
+  "user_10": {
+    "education": 300,
+    "entertainment": 1300,
+    "food": 1500,
+    "health": 600,
+    "shopping": 2100,
+    "transport": 900,
+    "utilities": 2000,
+    "bills": 1800
+  }
+}
