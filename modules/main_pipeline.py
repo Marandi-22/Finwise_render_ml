@@ -6,7 +6,8 @@ from typing import Dict, Any
 from dataclasses import dataclass
 
 # Setup log directory and file output
-log_dir = "/content/drive/MyDrive/FinWise/logs"
+log_dir = log_dir = os.path.join(os.getcwd(), "logs")
+
 os.makedirs(log_dir, exist_ok=True)
 
 logging.basicConfig(
