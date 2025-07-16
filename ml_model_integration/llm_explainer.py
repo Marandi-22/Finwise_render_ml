@@ -14,6 +14,11 @@ class LLMExplainer:
         self.api_url = f"{Config.GROQ_BASE_URL}/chat/completions"
         self.model = model
 
+        # 🚨 DIAGNOSTIC PRINTS (TEMP)
+        print(f"[DIAG] GROQ_API_KEY: {self.api_key}")
+        print(f"[DIAG] GROQ_BASE_URL: {self.api_url}")
+        print(f"[DIAG] GROQ_MODEL: {self.model}")
+
     def explain(self, transaction_context: dict) -> str:
         prompt = self._generate_prompt(transaction_context)
 
