@@ -38,8 +38,13 @@ class LLMExplainer:
             print(f"↩️ Status Code: {response.status_code}")
 
             if response.status_code != 200:
-                print(f"⚠️ Non-200 response body: {response.text}")
-                return f"⚠️ AI explanation unavailable: API error {response.status_code}."
+                try:
+                    error_json = response.json()
+                    error_message = error_json.get("error", {}).get("message", response.text)
+                except Exception:
+                    error_message = response.text
+                print(f"⚠️ Non-200 response body: {error_message}")
+                return f"⚠️ AI explanation unavailable: {error_message}"
 
             result = response.json()
             reply = result['choices'][0]['message']['content'].strip()
