@@ -22,8 +22,9 @@ WORKDIR /app
 # Copy only requirements first to leverage Docker cache
 COPY requirements.txt .
 
-# Upgrade pip and install dependencies
+# Upgrade pip and install dependencies with specific pandas version
 RUN pip install --upgrade pip && \
+    pip install --no-cache-dir pandas==2.0.3 && \
     pip install --no-cache-dir -r requirements.txt
 
 # Now copy the rest of the app
