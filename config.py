@@ -24,8 +24,8 @@ class Config:
     
     # API Configuration (loaded from environment variables)
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
-    OPENAI_BASE_URL = "https://openrouter.ai/api/v1"
-    OPENAI_MODEL = os.getenv("MODEL_NAME", "")
+    OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1")
+    OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-3.5-turbo")
     
     # Defaults
     DEFAULT_AMOUNT = 500.0
