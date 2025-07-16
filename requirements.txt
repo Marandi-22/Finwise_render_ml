@@ -1,6 +1,5 @@
 streamlit==1.34.0
-streamlit-lottie==0.0.5
-pandas==2.2.2                 # ⚠️ not 2.3.1 — safer w/ sklearn
+streamlit-lottie==0.0.5               # ⚠️ not 2.3.1 — safer w/ sklearn
 numpy==1.26.4
 scikit-learn==1.7.0
 openai==1.11.1
