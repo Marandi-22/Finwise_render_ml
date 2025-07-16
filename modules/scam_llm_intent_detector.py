@@ -21,6 +21,11 @@ class ScamLLMIntentDetector:
         self._last_api_call = 0
         self._min_api_interval = 1.0  # seconds
 
+        # 🚨 DIAGNOSTIC PRINTS (TEMP)
+        print(f"[DIAG] GROQ_API_KEY: {self.api_key}")
+        print(f"[DIAG] GROQ_BASE_URL: {self.base_url}")
+        print(f"[DIAG] GROQ_MODEL: {self.model}")
+
     def _get_compiled_patterns(self) -> List[re.Pattern]:
         if self._compiled_patterns is None:
             scam_patterns = cache_manager.get_data(Config.SCAM_PATTERNS, default=[])
