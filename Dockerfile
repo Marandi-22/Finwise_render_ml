@@ -1,12 +1,12 @@
-# Use lightweight Python base
-FROM python:3.10-slim
+# Use a specific, stable Python base image
+FROM python:3.10.12-slim
 
-# Prevent prompts and set safer env defaults
-ENV DEBIAN_FRONTEND=noninteractive
-ENV PYTHONDONTWRITEBYTECODE=1
-ENV PYTHONUNBUFFERED=1
+# Avoids prompts during install, improves performance
+ENV DEBIAN_FRONTEND=noninteractive \
+    PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1
 
-# Install system dependencies needed for OpenCV, pyzbar, etc.
+# Install system-level dependencies (OpenCV, pyzbar, etc.)
 RUN apt-get update && apt-get install -y \
     build-essential \
     libglib2.0-0 \
@@ -16,18 +16,21 @@ RUN apt-get update && apt-get install -y \
     libgl1-mesa-glx \
     && rm -rf /var/lib/apt/lists/*
 
-# Set working directory
+# Set work directory
 WORKDIR /app
 
-# Copy project files into container
-COPY . /app
+# Copy only requirements first to leverage Docker cache
+COPY requirements.txt .
 
-# Install Python packages
-RUN pip install --upgrade pip
-RUN pip install --no-cache-dir -r requirements.txt
+# Upgrade pip and install dependencies
+RUN pip install --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
+
+# Now copy the rest of the app
+COPY . .
 
 # Expose port for Streamlit
 EXPOSE 10000
 
-# Start the app using Streamlit
-CMD ["streamlit", "run", "app.py", "--server.port=10000", "--server.address=0.0.0.0"]
+# Run Streamlit app
+CMD ["streamlit", "run", "app.py", "--server.port=10000", "--server.address=0.0.0.0", "--server.enableCORS=false"]
