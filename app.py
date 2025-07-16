@@ -406,9 +406,9 @@ if submitted:
 
             # Load Lottie animation from local file
             animation_paths = {
-                "LOW": "/content/drive/MyDrive/FinWise/animations/low.json",
-                "MODERATE": "/content/drive/MyDrive/FinWise/animations/moderate.json",
-                "HIGH": "/content/drive/MyDrive/FinWise/animations/high.json"
+                "LOW": "animations/low.json",
+                "MODERATE": "animations/moderate.json",
+                "HIGH": "animations/high.json"
             }
             animation_path = animation_paths.get(risk_key, animation_paths["LOW"])
             lottie_json = None
