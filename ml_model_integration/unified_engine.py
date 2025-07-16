@@ -4,7 +4,6 @@ import logging
 
 logger = logging.getLogger(__name__)
 
-
 class UnifiedScamDetectionEngine:
     def __init__(self, pipeline, enricher, predictor, explainer=None):
         self.main_pipeline = pipeline
@@ -43,7 +42,9 @@ class UnifiedScamDetectionEngine:
             # Step 4: Generate Explanation (Safe fallback included)
             context = {**txn_result.to_dict(), **ml_output}
             try:
-                explanation = self.explainer.explain(context) if self.explainer else "No explainer API key provided."
+                explanation = self.explainer.explain(context) if self.explainer else "⚠️ No explainer API key provided."
+                if not explanation or explanation.strip() == "":
+                    explanation = "⚠️ AI explanation is unavailable for this transaction."
             except Exception as e:
                 logger.error(f"⚠️ LLM explanation failed: {e}")
                 explanation = "⚠️ AI explanation is temporarily unavailable due to rate limits. Please try again later."
