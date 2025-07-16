@@ -6,8 +6,7 @@ from typing import Dict, Any
 from dataclasses import dataclass
 
 # Setup log directory and file output
-log_dir = log_dir = os.path.join(os.getcwd(), "logs")
-
+log_dir = os.path.join(os.getcwd(), "logs")
 os.makedirs(log_dir, exist_ok=True)
 
 logging.basicConfig(
@@ -44,6 +43,7 @@ class TransactionAnalysisResult:
     budget_exceeded: int
     scam_flag: int
     urgency_level: int
+    llm_explanation: str
     timestamp: datetime
 
     def to_dict(self) -> Dict[str, Any]:
@@ -60,6 +60,7 @@ class TransactionAnalysisResult:
             "budget_exceeded": self.budget_exceeded,
             "scam_flag": self.scam_flag,
             "urgency_level": self.urgency_level,
+            "llm_explanation": self.llm_explanation,
             "timestamp": self.timestamp.isoformat()
         }
 
@@ -100,7 +101,7 @@ class FinWiseTransactionPipeline:
             is_trusted_merchant = self.trusted_merchant_utils.is_trusted_merchant(upi_id)
             is_new_for_user = self.trusted_merchant_utils.is_new_for_user(user_id, upi_id)
             budget_exceeded = self.budget_utils.get_user_budget_exceeded_flag(user_id, category, amount)
-            scam_flag, urgency_level = self.scam_detector.detect_scam_intent(reason)
+            scam_flag, urgency_level, llm_explanation = self.scam_detector.detect_scam_intent(reason)
 
             # --- Risk Patch ---
             if category in ["education", "books", "school", "tuition"] and is_trusted_merchant:
@@ -122,6 +123,7 @@ class FinWiseTransactionPipeline:
                 budget_exceeded=budget_exceeded,
                 scam_flag=scam_flag,
                 urgency_level=urgency_level,
+                llm_explanation=llm_explanation,
                 timestamp=timestamp
             )
 
@@ -136,6 +138,7 @@ class FinWiseTransactionPipeline:
             logger.info(f"Budget Exceeded: {budget_exceeded}")
             logger.info(f"Urgency Level: {urgency_level}")
             logger.info(f"Scam Flag (LLM): {scam_flag}")
+            logger.info(f"LLM Explanation: {llm_explanation}")
             logger.info("📌 Risk Factors:")
             if budget_exceeded:
                 logger.info("🔺 Budget exceeded.")
