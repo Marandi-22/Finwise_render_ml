@@ -23,9 +23,10 @@ class Config:
     SCAM_PATTERNS = DATA_DIR / "scam_patterns.json"
     
     # API Configuration (loaded from environment variables)
-    OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "")
-    OPENAI_BASE_URL = os.getenv("OPENAI_BASE_URL", "https://api.openai.com/v1")
-    OPENAI_MODEL = os.getenv("OPENAI_MODEL", "gpt-3.5-turbo")
+    GROQ_API_KEY = os.getenv("GROQ_API_KEY", "")
+    GROQ_BASE_URL = "https://api.groq.com/openai/v1"
+    GROQ_MODEL = os.getenv("GROQ_MODEL", "compound-beta-mini")
+
     
     # Defaults
     DEFAULT_AMOUNT = 500.0
