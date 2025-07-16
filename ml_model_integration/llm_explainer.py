@@ -1,5 +1,4 @@
 import requests
-import json
 import sys
 import os
 
@@ -10,9 +9,9 @@ from config import Config
 
 
 class LLMExplainer:
-    def __init__(self, api_key: str = Config.OPENAI_API_KEY, model: str = Config.OPENAI_MODEL):
+    def __init__(self, api_key: str = Config.GROQ_API_KEY, model: str = Config.GROQ_MODEL):
         self.api_key = api_key
-        self.api_url = Config.OPENAI_BASE_URL + "/chat/completions"
+        self.api_url = f"{Config.GROQ_BASE_URL}/chat/completions"
         self.model = model
 
     def explain(self, transaction_context: dict) -> str:
@@ -21,9 +20,11 @@ class LLMExplainer:
         payload = {
             "model": self.model,
             "messages": [
-                {"role": "system", "content": "You are a financial risk explainer. Respond concisely and clearly."},
+                {"role": "system", "content": "You are a financial scam detection assistant."},
                 {"role": "user", "content": prompt}
-            ]
+            ],
+            "temperature": 0.2,
+            "max_tokens": 200
         }
 
         headers = {
@@ -32,36 +33,19 @@ class LLMExplainer:
         }
 
         try:
-            print(f"🔍 Sending LLM request to: {self.api_url}")
-            print(f"🔑 Model: {self.model}")
+            print(f"🔍 Sending LLM request to Groq: {self.api_url}")
             response = requests.post(self.api_url, headers=headers, json=payload, timeout=30)
             print(f"↩️ Status Code: {response.status_code}")
 
-            raw_text = response.text.strip()
             if response.status_code != 200:
-                print(f"⚠️ Non-200 response body: {raw_text[:300]}")
+                print(f"⚠️ Non-200 response body: {response.text}")
                 return f"⚠️ AI explanation unavailable: API error {response.status_code}."
 
-            if not raw_text:
-                print(f"⚠️ Empty response body!")
-                return "⚠️ AI explanation unavailable: Empty response from LLM."
+            result = response.json()
+            reply = result['choices'][0]['message']['content'].strip()
 
-            try:
-                response_json = response.json()
-            except json.JSONDecodeError as e:
-                print(f"⚠️ JSON decode error: {e}")
-                print(f"↩️ Raw content: {raw_text[:300]}")
-                return "⚠️ AI explanation unavailable: LLM returned invalid JSON."
-
-            # Safely extract content
-            choices = response_json.get('choices')
-            if not choices or not choices[0].get('message'):
-                print(f"⚠️ Missing 'choices' or 'message' in response: {response_json}")
-                return "⚠️ AI explanation unavailable: Incomplete response."
-
-            reply = choices[0]['message'].get('content', '').strip()
             if not reply:
-                print(f"⚠️ Empty 'content' in message.")
+                print(f"⚠️ Empty 'content' in response.")
                 return "⚠️ AI explanation unavailable: No explanation returned."
 
             return reply
