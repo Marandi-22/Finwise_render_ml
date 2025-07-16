@@ -30,7 +30,7 @@ class ScamLLMIntentDetector:
     def _check_pattern_match(self, reason_text: str) -> bool:
         return any(p.search(reason_text) for p in self._get_compiled_patterns())
 
-    def _call_llm_with_retry(self, reason_text: str) -> Tuple[int, int]:
+    def _call_llm_with_retry(self, reason_text: str) -> Tuple[int, int, str]:
         current_time = time.time()
         if current_time - self._last_api_call < self._min_api_interval:
             time.sleep(self._min_api_interval - (current_time - self._last_api_call))
@@ -75,9 +75,10 @@ class ScamLLMIntentDetector:
                 scam_flag = 1 if parsed.get("scam") else 0
                 urgency_map = {"low": 0, "medium": 1, "high": 2}
                 urgency_level = urgency_map.get(parsed.get("urgency", "").lower(), 0)
+                explanation = parsed.get("explanation", "No explanation provided.")
 
                 logger.info(f"LLM ✅ parsed for: {reason_text[:40]}...")
-                return scam_flag, urgency_level
+                return scam_flag, urgency_level, explanation
 
             except json.JSONDecodeError as e:
                 logger.warning(f"⚠️ JSON decode failed: {e}")
@@ -85,27 +86,27 @@ class ScamLLMIntentDetector:
                 reply_lower = reply.lower()
                 scam_flag = 1 if any(k in reply_lower for k in ["true", "scam", "fraud"]) else 0
                 urgency_level = 2 if "high" in reply_lower else 1 if "medium" in reply_lower else 0
-                return scam_flag, urgency_level
+                return scam_flag, urgency_level, "Fallback parsing used — original reply was malformed."
 
             except Exception as e:
                 logger.warning(f"❌ LLM call attempt {attempt + 1} failed: {e}")
                 if attempt == Config.MAX_RETRIES - 1:
                     logger.error("🚨 All attempts failed.")
-                    return 0, 0
+                    return 0, 0, "AI explanation unavailable (network/server error)."
                 time.sleep(2 ** attempt)
 
-        return 0, 0
+        return 0, 0, "AI explanation unavailable (retry exhaustion)."
 
-    def detect_scam_intent(self, reason_text: str) -> Tuple[int, int]:
+    def detect_scam_intent(self, reason_text: str) -> Tuple[int, int, str]:
         try:
             reason_text = Validators.validate_text(reason_text, max_length=1000)
             if self._check_pattern_match(reason_text):
                 logger.info(f"⚠️ Pattern matched: {reason_text[:50]}...")
-                return 1, 2
+                return 1, 2, "Matched known scam pattern."
             return self._call_llm_with_retry(reason_text)
         except ValidationError as e:
             logger.warning(f"⚠️ Validation failed: {e}")
-            return 0, 0
+            return 0, 0, "Validation error: input too long or malformed."
         except Exception as e:
             logger.error(f"🔥 Detection failed: {e}")
-            return 0, 0
+            return 0, 0, "Internal error in scam detection logic."
