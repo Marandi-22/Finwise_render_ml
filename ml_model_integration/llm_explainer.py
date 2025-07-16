@@ -32,14 +32,47 @@ class LLMExplainer:
         }
 
         try:
-            response = requests.post(self.api_url, headers=headers, json=payload)
-            response.raise_for_status()
-            reply = response.json()['choices'][0]['message']['content']
-            return reply.strip()
+            print(f"🔍 Sending LLM request to: {self.api_url}")
+            print(f"🔑 Model: {self.model}")
+            response = requests.post(self.api_url, headers=headers, json=payload, timeout=30)
+            print(f"↩️ Status Code: {response.status_code}")
+
+            raw_text = response.text.strip()
+            if response.status_code != 200:
+                print(f"⚠️ Non-200 response body: {raw_text[:300]}")
+                return f"⚠️ AI explanation unavailable: API error {response.status_code}."
+
+            if not raw_text:
+                print(f"⚠️ Empty response body!")
+                return "⚠️ AI explanation unavailable: Empty response from LLM."
+
+            try:
+                response_json = response.json()
+            except json.JSONDecodeError as e:
+                print(f"⚠️ JSON decode error: {e}")
+                print(f"↩️ Raw content: {raw_text[:300]}")
+                return "⚠️ AI explanation unavailable: LLM returned invalid JSON."
+
+            # Safely extract content
+            choices = response_json.get('choices')
+            if not choices or not choices[0].get('message'):
+                print(f"⚠️ Missing 'choices' or 'message' in response: {response_json}")
+                return "⚠️ AI explanation unavailable: Incomplete response."
+
+            reply = choices[0]['message'].get('content', '').strip()
+            if not reply:
+                print(f"⚠️ Empty 'content' in message.")
+                return "⚠️ AI explanation unavailable: No explanation returned."
+
+            return reply
+
+        except requests.exceptions.RequestException as e:
+            print(f"❌ Request Exception: {e}")
+            return "⚠️ AI explanation unavailable: Network error or timeout."
 
         except Exception as e:
-            print(f"❌ LLM Error: {e}")
-            return "⚠️ AI explanation unavailable (rate-limited or server error). Please retry later."
+            print(f"❌ General LLM Error: {e}")
+            return "⚠️ AI explanation unavailable (unexpected error)."
 
     def _generate_prompt(self, context: dict) -> str:
         features = []
