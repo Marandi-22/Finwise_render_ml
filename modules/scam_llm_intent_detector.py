@@ -11,12 +11,12 @@ from config import Config
 logger = logging.getLogger(__name__)
 
 class ScamLLMIntentDetector:
-    """LLM-enhanced scam detection via OpenRouter"""
+    """LLM-enhanced scam detection via Groq"""
 
     def __init__(self):
-        self.api_key = Config.OPENAI_API_KEY
-        self.base_url = Config.OPENAI_BASE_URL or "https://openrouter.ai/api/v1/chat/completions"
-        self.model = Config.OPENAI_MODEL
+        self.api_key = Config.GROQ_API_KEY
+        self.base_url = f"{Config.GROQ_BASE_URL}/chat/completions"
+        self.model = Config.GROQ_MODEL
         self._compiled_patterns = None
         self._last_api_call = 0
         self._min_api_interval = 1.0  # seconds
@@ -44,7 +44,7 @@ class ScamLLMIntentDetector:
             "model": self.model,
             "messages": [
                 {"role": "system", "content": (
-                    "You are a financial fraud detection AI. "
+                    "You are a financial fraud detection assistant. "
                     "Given a payment reason, determine if it likely indicates a scam. "
                     "Respond only in the following JSON format:"
                 )},
@@ -58,8 +58,8 @@ class ScamLLMIntentDetector:
                     "}"
                 )}
             ],
-            "max_tokens": 150,
-            "temperature": 0.3
+            "max_tokens": 200,
+            "temperature": 0.2
         }
 
         for attempt in range(Config.MAX_RETRIES):
