@@ -1,12 +1,12 @@
 streamlit==1.34.0
 streamlit-lottie==0.0.5
-pandas==2.3.1
-numpy==1.26.4           # ✅ Compatible with Streamlit
+pandas==2.2.2                 # ⚠️ not 2.3.1 — safer w/ sklearn
+numpy==1.26.4
 scikit-learn==1.7.0
 openai==1.11.1
 requests==2.31.0
-Pillow==11.3.0
-opencv-python==4.7.0.72
+Pillow==10.4.0                # ✅ compatible with Streamlit
+opencv-python==4.10.0.84      # ✅ latest safe release
 pyzbar==0.1.9
-reportlab==4.0.7
+reportlab==4.2.2              # ✅ more modern
 plotly==5.20.0
